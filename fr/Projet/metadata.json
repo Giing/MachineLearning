@@ -1,1592 +1,3138 @@
 {
-    "269.png": {
+    "dustox": {
+        "path": "269.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#a0ad59",
-        "color_1": "#0e0d0a",
-        "color_2": "#6a822e",
-        "color_3": "#d7b1ae",
-        "type_1": "Glace",
-        "type_2": "Glace",
+        "color_0": 96,
+        "color_1": 120,
+        "color_2": 7,
+        "color_3": 25,
+        "type_1": 13,
+        "type_2": 7,
+        "location": "Hoenn"
+    },
+    "aegislash-blade": {
+        "path": "681.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 127,
+        "color_1": 34,
+        "color_2": 49,
+        "color_3": 77,
+        "type_1": 15,
+        "type_2": 14,
         "location": "Unys"
     },
-    "681.png": {
+    "chikorita": {
+        "path": "152.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#cdc09d",
-        "color_1": "#3e3936",
-        "color_2": "#f2f1ec",
-        "color_3": "#998981",
-        "type_1": "Combat",
-        "type_2": "Electrik",
+        "color_0": 100,
+        "color_1": 49,
+        "color_2": 7,
+        "color_3": 32,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "binacle": {
+        "path": "688.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 45,
+        "color_2": 106,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 3,
+        "location": "Unys"
+    },
+    "noibat": {
+        "path": "714.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 120,
+        "color_2": 7,
+        "color_3": 49,
+        "type_1": 5,
+        "type_2": 16,
+        "location": "Kant"
+    },
+    "solrock": {
+        "path": "338.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 106,
+        "color_1": 12,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 11,
         "location": "Johto"
     },
-    "152.png": {
+    "volbeat": {
+        "path": "313.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#d4e3b1",
-        "color_1": "#708f64",
-        "color_2": "#0c0c09",
-        "color_3": "#9bbc84",
-        "type_1": "Tenebres",
-        "type_2": "Normal",
+        "color_0": 34,
+        "color_1": 115,
+        "color_2": 7,
+        "color_3": 73,
+        "type_1": 13,
+        "type_2": 0,
         "location": "Kalos"
     },
-    "688.png": {
+    "slowbro": {
+        "path": "80.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#e3e4cb",
-        "color_1": "#6e686a",
-        "color_2": "#d18d61",
-        "color_3": "#13100e",
-        "type_1": "Normal",
-        "type_2": "Acier",
-        "location": "Hoenn"
-    },
-    "714.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#bfaac5",
-        "color_1": "#81608a",
-        "color_2": "#070605",
-        "color_3": "#2f272c",
-        "type_1": "Dragon",
-        "type_2": null,
-        "location": "Hoenn"
-    },
-    "338.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#efcc86",
-        "color_1": "#1d170f",
-        "color_2": "#c27646",
-        "color_3": "#010101",
-        "type_1": "Normal",
-        "type_2": "Feu",
-        "location": "Hoenn"
-    },
-    "313.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#a8bad5",
-        "color_1": "#4f575a",
-        "color_2": "#e08068",
-        "color_3": "#160f11",
-        "type_1": "Psy",
-        "type_2": null,
-        "location": "Hoenn"
-    },
-    "80.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#df98ab",
-        "color_1": "#886b7d",
-        "color_2": "#e8e5e3",
-        "color_3": "#21191d",
-        "type_1": "Insecte",
-        "type_2": null,
-        "location": "Johto"
-    },
-    "56.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#211c1a",
-        "color_1": "#ecdcd1",
-        "color_2": "#a88d7e",
-        "color_3": "#010101",
-        "type_1": "Spectre",
-        "type_2": null,
-        "location": "Sinnoh"
-    },
-    "448.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#060707",
-        "color_1": "#75a2b3",
-        "color_2": "#5c5f61",
-        "color_3": "#e3d5b5",
-        "type_1": "Combat",
-        "type_2": null,
-        "location": "Johto"
-    },
-    "698.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#7692a1",
-        "color_1": "#a1d2ee",
-        "color_2": "#141111",
-        "color_3": "#f1d9b6",
-        "type_1": "Acier",
-        "type_2": "Insecte",
-        "location": "Johto"
-    },
-    "412-trash.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#e29f9b",
-        "color_1": "#090908",
-        "color_2": "#737072",
-        "color_3": "#b07b7f",
-        "type_1": "Normal",
-        "type_2": null,
-        "location": "Kant"
-    },
-    "9.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#816d5f",
-        "color_1": "#d1cecc",
-        "color_2": "#6b92be",
-        "color_3": "#0e0d0e",
-        "type_1": "Fee",
-        "type_2": "Insecte",
-        "location": "Hoenn"
-    },
-    "71.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#e9e48a",
-        "color_1": "#111410",
-        "color_2": "#93c085",
-        "color_3": "#010101",
-        "type_1": "Feu",
-        "type_2": null,
+        "color_0": 127,
+        "color_1": 45,
+        "color_2": 7,
+        "color_3": 49,
+        "type_1": 3,
+        "type_2": 11,
         "location": "Unys"
     },
-    "589.png": {
+    "mankey": {
+        "path": "56.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#cab6af",
-        "color_1": "#a74e5b",
-        "color_2": "#0e0e0b",
-        "color_3": "#8e847a",
-        "type_1": "Roche",
-        "type_2": "Acier",
+        "color_0": 45,
+        "color_1": 7,
+        "color_2": 112,
+        "color_3": 7,
+        "type_1": 6,
+        "type_2": 0,
         "location": "Sinnoh"
     },
-    "295.png": {
+    "lucario": {
+        "path": "448.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#8a7aa3",
-        "color_1": "#bab8d6",
-        "color_2": "#181518",
-        "color_3": "#e9cd8c",
-        "type_1": "Roche",
-        "type_2": null,
-        "location": "Sinnoh"
-    },
-    "374.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#709db6",
-        "color_1": "#070809",
-        "color_2": "#a3becd",
-        "color_3": "#000100",
-        "type_1": "Glace",
-        "type_2": "Eau",
-        "location": "Hoenn"
-    },
-    "559.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#c39666",
-        "color_1": "#faf7d3",
-        "color_2": "#120e0c",
-        "color_3": "#f7d07b",
-        "type_1": "Sol",
-        "type_2": "Feu",
-        "location": "Galar"
-    },
-    "40.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#f1e0e6",
-        "color_1": "#223539",
-        "color_2": "#010101",
-        "color_3": "#c9a7b0",
-        "type_1": "Acier",
-        "type_2": "Psy",
-        "location": "Galar"
-    },
-    "262.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#212121",
-        "color_1": "#c1c1c1",
-        "color_2": "#5c5b5b",
-        "color_3": "#010101",
-        "type_1": "Acier",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "413-plant.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#60905d",
-        "color_1": "#010101",
-        "color_2": "#e8e9e6",
-        "color_3": "#162017",
-        "type_1": "Normal",
-        "type_2": "Roche",
-        "location": "Galar"
-    },
-    "328.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#e69774",
-        "color_1": "#1c1411",
-        "color_2": "#cfcdd0",
-        "color_3": "#010101",
-        "type_1": "Insecte",
-        "type_2": "Insecte",
-        "location": "Kant"
-    },
-    "343.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#d5c49d",
-        "color_1": "#100e0c",
-        "color_2": "#9f806f",
-        "color_3": "#010000",
-        "type_1": "Sol",
-        "type_2": "Eau",
-        "location": "Sinnoh"
-    },
-    "462.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#627181",
-        "color_1": "#c5c6c3",
-        "color_2": "#313336",
-        "color_3": "#010101",
-        "type_1": "Tenebres",
-        "type_2": null,
-        "location": "Sinnoh"
-    },
-    "282-mega.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#f7f7fa",
-        "color_1": "#0c0c0c",
-        "color_2": "#866d69",
-        "color_3": "#bbc6d1",
-        "type_1": "Plante",
-        "type_2": null,
+        "color_0": 13,
+        "color_1": 7,
+        "color_2": 133,
+        "color_3": 39,
+        "type_1": 6,
+        "type_2": 15,
         "location": "Unys"
     },
-    "208.png": {
+    "amaura": {
+        "path": "698.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#7e869c",
-        "color_1": "#181b19",
-        "color_2": "#605e77",
-        "color_3": "#bfc3cd",
-        "type_1": "Acier",
-        "type_2": "Poison",
-        "location": "Hoenn"
+        "color_0": 62,
+        "color_1": 72,
+        "color_2": 133,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 12,
+        "location": "Unys"
     },
-    "662.png": {
+    "burmy": {
+        "path": "412-trash.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#e0864f",
-        "color_1": "#3c3836",
-        "color_2": "#cdd4e0",
-        "color_3": "#090707",
-        "type_1": "Poison",
-        "type_2": null,
+        "color_0": 127,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 112,
+        "type_1": 13,
+        "type_2": 0,
         "location": "Alola"
     },
-    "92.png": {
+    "blastoise": {
+        "path": "9.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#e8e6e9",
-        "color_1": "#211a1a",
-        "color_2": "#8f758c",
-        "color_3": "#9d839b",
-        "type_1": "Glace",
-        "type_2": null,
-        "location": "Kalos"
-    },
-    "257.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#ba5c49",
-        "color_1": "#e3b880",
-        "color_2": "#100d0c",
-        "color_3": "#ece0c7",
-        "type_1": "Fee",
-        "type_2": null,
-        "location": "Johto"
-    },
-    "641-therian.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#886895",
-        "color_1": "#dedbd9",
-        "color_2": "#79a365",
-        "color_3": "#12100e",
-        "type_1": "Sol",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "466.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#b0986a",
-        "color_1": "#3c3b3b",
-        "color_2": "#e6ca87",
-        "color_3": "#080907",
-        "type_1": "Sol",
-        "type_2": null,
-        "location": "Johto"
-    },
-    "706.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#dfd6e6",
-        "color_1": "#313531",
-        "color_2": "#a795ab",
-        "color_3": "#0b0806",
-        "type_1": "Plante",
-        "type_2": "Insecte",
-        "location": "Kalos"
-    },
-    "155.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#446f73",
-        "color_1": "#d88f56",
-        "color_2": "#f2dda7",
-        "color_3": "#161814",
-        "type_1": "Combat",
-        "type_2": "Normal",
-        "location": "Johto"
-    },
-    "311.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#ba535b",
-        "color_1": "#f2ebbe",
-        "color_2": "#0c090a",
-        "color_3": "#cf8a8d",
-        "type_1": "Electrik",
-        "type_2": "Poison",
+        "color_0": 66,
+        "color_1": 39,
+        "color_2": 13,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
         "location": "Sinnoh"
     },
-    "235.png": {
+    "victreebel": {
+        "path": "71.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#f1e5d5",
-        "color_1": "#161a15",
-        "color_2": "#c3b6a4",
-        "color_3": "#8d6e43",
-        "type_1": "Tenebres",
-        "type_2": "Plante",
-        "location": "Unys"
-    },
-    "670.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#a0474b",
-        "color_1": "#64a074",
-        "color_2": "#10100e",
-        "color_3": "#ebebdf",
-        "type_1": "Sol",
-        "type_2": null,
-        "location": "Kant"
-    },
-    "316.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#b2cda7",
-        "color_1": "#0a0b09",
-        "color_2": "#98b683",
-        "color_3": "#ede08f",
-        "type_1": "Combat",
-        "type_2": null,
-        "location": "Sinnoh"
-    },
-    "465.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#7498b6",
-        "color_1": "#111212",
-        "color_2": "#5c6f85",
-        "color_3": "#bb5575",
-        "type_1": "Electrik",
-        "type_2": null,
-        "location": "Kalos"
-    },
-    "77.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#f1e9c5",
-        "color_1": "#d8724d",
-        "color_2": "#36222b",
-        "color_3": "#f5be20",
-        "type_1": "Psy",
-        "type_2": "Plante",
-        "location": "Sinnoh"
-    },
-    "598.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#6e967b",
-        "color_1": "#c7c8ca",
-        "color_2": "#2a332f",
-        "color_3": "#030301",
-        "type_1": "Dragon",
-        "type_2": "Glace",
-        "location": "Hoenn"
-    },
-    "388.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#4f754e",
-        "color_1": "#bea34f",
-        "color_2": "#84aa7d",
-        "color_3": "#060804",
-        "type_1": "Sol",
-        "type_2": "Acier",
-        "location": "Johto"
-    },
-    "686.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#e7b7ad",
-        "color_1": "#7493b4",
-        "color_2": "#f2f2ef",
-        "color_3": "#131110",
-        "type_1": "Sol",
-        "type_2": null,
-        "location": "Johto"
-    },
-    "112.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#bbbdc3",
-        "color_1": "#828896",
-        "color_2": "#201f26",
-        "color_3": "#121318",
-        "type_1": "Tenebres",
-        "type_2": "Spectre",
-        "location": "Kant"
-    },
-    "386-defense.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#eb9e7a",
-        "color_1": "#a7674e",
-        "color_2": "#0e0c0b",
-        "color_3": "#6696a9",
-        "type_1": "Eau",
-        "type_2": null,
-        "location": "Kalos"
-    },
-    "369.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#696260",
-        "color_1": "#b5a291",
-        "color_2": "#100e0e",
-        "color_3": "#010101",
-        "type_1": "Eau",
-        "type_2": "Feu",
-        "location": "Johto"
-    },
-    "167.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#acd090",
-        "color_1": "#151613",
-        "color_2": "#507176",
-        "color_3": "#e2b16c",
-        "type_1": "Sol",
-        "type_2": null,
+        "color_0": 32,
+        "color_1": 7,
+        "color_2": 57,
+        "color_3": 7,
+        "type_1": 4,
+        "type_2": 7,
         "location": "Alola"
     },
-    "226.png": {
+    "escavalier": {
+        "path": "589.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#ecddea",
-        "color_1": "#171b19",
-        "color_2": "#bfb3bb",
-        "color_3": "#56667c",
-        "type_1": "Roche",
-        "type_2": "Roche",
-        "location": "Unys"
-    },
-    "376-mega.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#718184",
-        "color_1": "#0b0c0a",
-        "color_2": "#a5c0c4",
-        "color_3": "#485055",
-        "type_1": "Spectre",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "142-mega.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#6a5968",
-        "color_1": "#1c191b",
-        "color_2": "#aca2af",
-        "color_3": "#030202",
-        "type_1": "Sol",
-        "type_2": "Insecte",
-        "location": "Hoenn"
-    },
-    "463.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#df9396",
-        "color_1": "#100e0c",
-        "color_2": "#ae7178",
-        "color_3": "#f7f3ee",
-        "type_1": "Plante",
-        "type_2": "Roche",
-        "location": "Kalos"
-    },
-    "14.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#bca158",
-        "color_1": "#13130f",
-        "color_2": "#dcc573",
-        "color_3": "#f4e295",
-        "type_1": "Tenebres",
-        "type_2": null,
+        "color_0": 49,
+        "color_1": 7,
+        "color_2": 120,
+        "color_3": 54,
+        "type_1": 13,
+        "type_2": 15,
         "location": "Johto"
     },
-    "504.png": {
+    "exploud": {
+        "path": "295.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#be9160",
-        "color_1": "#e1d6c6",
-        "color_2": "#1e1b19",
-        "color_3": "#916f48",
-        "type_1": "Acier",
-        "type_2": null,
-        "location": "Kant"
-    },
-    "198.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#263849",
-        "color_1": "#e2c69a",
-        "color_2": "#010101",
-        "color_3": "#455e78",
-        "type_1": "Glace",
-        "type_2": "Roche",
-        "location": "Kalos"
-    },
-    "236.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#dec8d7",
-        "color_1": "#7b5c3b",
-        "color_2": "#141714",
-        "color_3": "#b49fa6",
-        "type_1": "Sol",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "324.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#7e6f6c",
-        "color_1": "#d0ad91",
-        "color_2": "#13100f",
-        "color_3": "#e7dccb",
-        "type_1": "Plante",
-        "type_2": "Normal",
-        "location": "Kant"
-    },
-    "546.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#e8f0e7",
-        "color_1": "#589d5f",
-        "color_2": "#b1b19b",
-        "color_3": "#0f0f0d",
-        "type_1": "Eau",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "447.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#535256",
-        "color_1": "#86a6b7",
-        "color_2": "#1a1719",
-        "color_3": "#070301",
-        "type_1": "Vol",
-        "type_2": "Spectre",
+        "color_0": 7,
+        "color_1": 12,
+        "color_2": 73,
+        "color_3": 72,
+        "type_1": 1,
+        "type_2": 0,
         "location": "Johto"
     },
-    "563.png": {
+    "beldum": {
+        "path": "374.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#484b4b",
-        "color_1": "#f6d18c",
-        "color_2": "#7a9384",
-        "color_3": "#878a72",
-        "type_1": "Insecte",
-        "type_2": "Plante",
-        "location": "Galar"
-    },
-    "451.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#7c8eb4",
-        "color_1": "#515177",
-        "color_2": "#090a0c",
-        "color_3": "#e0dcdc",
-        "type_1": "Combat",
-        "type_2": "Sol",
-        "location": "Kalos"
-    },
-    "543.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#121212",
-        "color_1": "#ba5464",
-        "color_2": "#50594f",
-        "color_3": "#141315",
-        "type_1": "Glace",
-        "type_2": null,
-        "location": "Kalos"
-    },
-    "329.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#63976a",
-        "color_1": "#1e221f",
-        "color_2": "#010101",
-        "color_3": "#dbdba5",
-        "type_1": "Eau",
-        "type_2": null,
-        "location": "Alola"
-    },
-    "545.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#474744",
-        "color_1": "#b15875",
-        "color_2": "#0d0a09",
-        "color_3": "#7e3b4d",
-        "type_1": "Sol",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "513.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#aa5b51",
-        "color_1": "#e18366",
-        "color_2": "#f5df9a",
-        "color_3": "#130f0e",
-        "type_1": "Glace",
-        "type_2": null,
-        "location": "Hoenn"
-    },
-    "247.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#858ea8",
-        "color_1": "#090a08",
-        "color_2": "#abb9d5",
-        "color_3": "#040502",
-        "type_1": "Dragon",
-        "type_2": "Glace",
-        "location": "Kalos"
-    },
-    "648.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#0d0a09",
-        "color_1": "#d1e1be",
-        "color_2": "#868080",
-        "color_3": "#f6f8f0",
-        "type_1": "Plante",
-        "type_2": "Combat",
-        "location": "Galar"
-    },
-    "297.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#f5dca0",
-        "color_1": "#4f526f",
-        "color_2": "#c9967d",
-        "color_3": "#0a0909",
-        "type_1": "Electrik",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "206.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#f0df7c",
-        "color_1": "#639ea0",
-        "color_2": "#f8f1db",
-        "color_3": "#171c17",
-        "type_1": "Fee",
-        "type_2": null,
+        "color_0": 7,
+        "color_1": 13,
+        "color_2": 73,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 11,
         "location": "Sinnoh"
     },
-    "284.png": {
+    "scraggy": {
+        "path": "559.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#e5eff7",
-        "color_1": "#25201f",
-        "color_2": "#de9a86",
-        "color_3": "#010101",
-        "type_1": "Combat",
-        "type_2": "Glace",
-        "location": "Kalos"
+        "color_0": 57,
+        "color_1": 7,
+        "color_2": 65,
+        "color_3": 25,
+        "type_1": 17,
+        "type_2": 6,
+        "location": "Unys"
     },
-    "201-f.png": {
+    "wigglytuff": {
+        "path": "40.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#596974",
-        "color_1": "#dfe3e9",
-        "color_2": "#14222e",
-        "color_3": "#080908",
-        "type_1": "Fee",
-        "type_2": "Combat",
-        "location": "Alola"
-    },
-    "379.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#c8c9cc",
-        "color_1": "#3f4344",
-        "color_2": "#84848d",
-        "color_3": "#040405",
-        "type_1": "Normal",
-        "type_2": null,
-        "location": "Kant"
-    },
-    "505.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#7d3d34",
-        "color_1": "#e0d6c9",
-        "color_2": "#f7c032",
-        "color_3": "#110d0c",
-        "type_1": "Plante",
-        "type_2": null,
-        "location": "Hoenn"
-    },
-    "184.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#489bc5",
-        "color_1": "#d5d1ce",
-        "color_2": "#0f100e",
-        "color_3": "#c16368",
-        "type_1": "Eau",
-        "type_2": "Vol",
+        "color_0": 90,
+        "color_1": 34,
+        "color_2": 7,
+        "color_3": 120,
+        "type_1": 1,
+        "type_2": 18,
         "location": "Galar"
     },
-    "276.png": {
+    "mightyena": {
+        "path": "262.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#060607",
-        "color_1": "#e6e8e8",
-        "color_2": "#41506c",
-        "color_3": "#cc7b86",
-        "type_1": "Plante",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "683.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#040403",
-        "color_1": "#b16991",
-        "color_2": "#e7a8b9",
-        "color_3": "#30262a",
-        "type_1": "Psy",
-        "type_2": "Spectre",
+        "color_0": 39,
+        "color_1": 120,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 17,
+        "type_2": 0,
         "location": "Sinnoh"
     },
-    "687.png": {
+    "wormadam-plant": {
+        "path": "413-plant.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#9984a6",
-        "color_1": "#e0e0e4",
-        "color_2": "#0b0b0c",
-        "color_3": "#675e77",
-        "type_1": "Combat",
-        "type_2": "Roche",
-        "location": "Kant"
+        "color_0": 39,
+        "color_1": 77,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 4,
+        "location": "Unys"
     },
-    "479.png": {
+    "trapinch": {
+        "path": "328.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#54829e",
-        "color_1": "#f5faf9",
-        "color_2": "#e38560",
-        "color_3": "#9ed6d5",
-        "type_1": "Acier",
-        "type_2": null,
-        "location": "Kant"
+        "color_0": 31,
+        "color_1": 7,
+        "color_2": 7,
+        "color_3": 66,
+        "type_1": 9,
+        "type_2": 0,
+        "location": "Unys"
     },
-    "720.png": {
+    "baltoy": {
+        "path": "343.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#986a74",
-        "color_1": "#070606",
-        "color_2": "#e6dc67",
-        "color_3": "#c4b7d2",
-        "type_1": "Spectre",
-        "type_2": "Feu",
-        "location": "Kant"
-    },
-    "31.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#63707f",
-        "color_1": "#d2c8b1",
-        "color_2": "#0e0f11",
-        "color_3": "#739cba",
-        "type_1": "Psy",
-        "type_2": "Eau",
+        "color_0": 127,
+        "color_1": 7,
+        "color_2": 49,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 11,
         "location": "Galar"
     },
-    "410.png": {
+    "magnezone": {
+        "path": "462.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#e4cda4",
-        "color_1": "#6f6e6c",
-        "color_2": "#0a0b09",
-        "color_3": "#b7a281",
-        "type_1": "Spectre",
-        "type_2": "Plante",
+        "color_0": 120,
+        "color_1": 123,
+        "color_2": 34,
+        "color_3": 7,
+        "type_1": 8,
+        "type_2": 15,
+        "location": "Galar"
+    },
+    "gardevoir": {
+        "path": "282-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 73,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 46,
+        "type_1": 11,
+        "type_2": 18,
+        "location": "Galar"
+    },
+    "steelix": {
+        "path": "208.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 72,
+        "type_1": 15,
+        "type_2": 9,
         "location": "Kant"
     },
-    "323-mega.png": {
+    "fletchinder": {
+        "path": "662.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#e78870",
-        "color_1": "#14110f",
-        "color_2": "#514947",
-        "color_3": "#b5aca6",
-        "type_1": "Tenebres",
-        "type_2": null,
-        "location": "Hoenn"
+        "color_0": 106,
+        "color_1": 34,
+        "color_2": 66,
+        "color_3": 7,
+        "type_1": 2,
+        "type_2": 5,
+        "location": "Kant"
     },
-    "319.png": {
+    "gastly": {
+        "path": "92.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#83536b",
-        "color_1": "#030405",
-        "color_2": "#035b83",
-        "color_3": "#d3d1df",
-        "type_1": "Tenebres",
-        "type_2": null,
+        "color_0": 112,
+        "color_1": 7,
+        "color_2": 58,
+        "color_3": 49,
+        "type_1": 14,
+        "type_2": 7,
         "location": "Johto"
     },
-    "524.png": {
+    "blaziken": {
+        "path": "257.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#6e6058",
-        "color_1": "#2f3b57",
-        "color_2": "#c09c5b",
-        "color_3": "#0e0c0c",
-        "type_1": "Sol",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "21.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#aa695b",
-        "color_1": "#010101",
-        "color_2": "#d8bfb5",
-        "color_3": "#16100e",
-        "type_1": "Insecte",
-        "type_2": "Combat",
-        "location": "Kant"
-    },
-    "394.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#3c587e",
-        "color_1": "#9fc0c4",
-        "color_2": "#050706",
-        "color_3": "#ca9f37",
-        "type_1": "Acier",
-        "type_2": "Sol",
-        "location": "Hoenn"
-    },
-    "592.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#cae8ed",
-        "color_1": "#095675",
-        "color_2": "#85b2ce",
-        "color_3": "#005474",
-        "type_1": "Spectre",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "467.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#f0b466",
-        "color_1": "#402f29",
-        "color_2": "#c36344",
-        "color_3": "#010201",
-        "type_1": "Tenebres",
-        "type_2": null,
-        "location": "Sinnoh"
-    },
-    "26.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#58492f",
-        "color_1": "#eccb74",
-        "color_2": "#f7efd7",
-        "color_3": "#c9a961",
-        "type_1": "Plante",
-        "type_2": "Acier",
-        "location": "Sinnoh"
-    },
-    "487-altered.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#3a3735",
-        "color_1": "#b2afac",
-        "color_2": "#e3c76c",
-        "color_3": "#9d6f50",
-        "type_1": "Spectre",
-        "type_2": "Vol",
+        "color_0": 12,
+        "color_1": 54,
+        "color_2": 7,
+        "color_3": 6,
+        "type_1": 2,
+        "type_2": 6,
         "location": "Unys"
     },
-    "189.png": {
+    "tornadus-incarnate": {
+        "path": "641-therian.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#7689b9",
-        "color_1": "#f9eec9",
-        "color_2": "#cabda0",
-        "color_3": "#101211",
-        "type_1": "Eau",
-        "type_2": null,
-        "location": "Sinnoh"
-    },
-    "512.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#3ca46a",
-        "color_1": "#f1dfa6",
-        "color_2": "#0f0e0b",
-        "color_3": "#96bd8e",
-        "type_1": "Psy",
-        "type_2": "Poison",
-        "location": "Hoenn"
-    },
-    "83.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#d4af45",
-        "color_1": "#12110f",
-        "color_2": "#968c81",
-        "color_3": "#ccc1b4",
-        "type_1": "Sol",
-        "type_2": null,
-        "location": "Unys"
-    },
-    "357.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#bca990",
-        "color_1": "#699f6e",
-        "color_2": "#171d16",
-        "color_3": "#010101",
-        "type_1": "Electrik",
-        "type_2": null,
-        "location": "Kant"
-    },
-    "144.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#527ea3",
-        "color_1": "#9fc2df",
-        "color_2": "#101112",
-        "color_3": "#837e7c",
-        "type_1": "Eau",
-        "type_2": null,
-        "location": "Hoenn"
-    },
-    "570.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#a23b41",
-        "color_1": "#625f72",
-        "color_2": "#252028",
-        "color_3": "#f2ede6",
-        "type_1": "Psy",
-        "type_2": "Electrik",
-        "location": "Unys"
-    },
-    "668f.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#93734f",
-        "color_1": "#d7af71",
-        "color_2": "#332c2a",
-        "color_3": "#ca3527",
-        "type_1": "Dragon",
-        "type_2": "Poison",
-        "location": "Johto"
-    },
-    "425.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#9784a6",
-        "color_1": "#0e0e0d",
-        "color_2": "#f3f1ef",
-        "color_3": "#e3c462",
-        "type_1": "Acier",
-        "type_2": "Spectre",
-        "location": "Galar"
-    },
-    "260.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#070707",
-        "color_1": "#80b0d7",
-        "color_2": "#ddc3ae",
-        "color_3": "#58626f",
-        "type_1": "Combat",
-        "type_2": null,
-        "location": "Alola"
-    },
-    "624.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#292425",
-        "color_1": "#e2e5e9",
-        "color_2": "#855b5c",
-        "color_3": "#030502",
-        "type_1": "Roche",
-        "type_2": null,
-        "location": "Johto"
-    },
-    "651.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#847e50",
-        "color_1": "#c2be6f",
-        "color_2": "#4b3420",
-        "color_3": "#f7f9fa",
-        "type_1": "Dragon",
-        "type_2": "Plante",
-        "location": "Alola"
-    },
-    "32.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#307977",
-        "color_1": "#0b090b",
-        "color_2": "#c09bc3",
-        "color_3": "#916b92",
-        "type_1": "Insecte",
-        "type_2": null,
+        "color_0": 7,
+        "color_1": 49,
+        "color_2": 45,
+        "color_3": 49,
+        "type_1": 5,
+        "type_2": 0,
         "location": "Kalos"
     },
-    "333.png": {
+    "electivire": {
+        "path": "466.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#f5fafc",
-        "color_1": "#82c4e8",
-        "color_2": "#10171b",
-        "color_3": "#9fc2e2",
-        "type_1": "Poison",
-        "type_2": null,
-        "location": "Sinnoh"
+        "color_0": 25,
+        "color_1": 34,
+        "color_2": 12,
+        "color_3": 7,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Kant"
     },
-    "676-diamond.png": {
+    "goodra": {
+        "path": "706.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#a8a89a",
-        "color_1": "#4b433d",
-        "color_2": "#e8eee0",
-        "color_3": "#e09a52",
-        "type_1": "Spectre",
-        "type_2": null,
-        "location": "Galar"
-    },
-    "240.png": {
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": "#e08684",
-        "color_1": "#1a1c18",
-        "color_2": "#f2e8ad",
-        "color_3": "#b35e5e",
-        "type_1": "Spectre",
-        "type_2": "Dragon",
+        "color_0": 23,
+        "color_1": 34,
+        "color_2": 45,
+        "color_3": 7,
+        "type_1": 16,
+        "type_2": 0,
         "location": "Alola"
     },
-    "588.png": {
+    "cyndaquil": {
+        "path": "155.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#388bc8",
-        "color_1": "#e5bf5a",
-        "color_2": "#635c5f",
-        "color_3": "#0f0e0e",
-        "type_1": "Acier",
-        "type_2": "Feu",
+        "color_0": 100,
+        "color_1": 106,
+        "color_2": 7,
+        "color_3": 39,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "plusle": {
+        "path": "311.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 7,
+        "color_2": 6,
+        "color_3": 54,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "smeargle": {
+        "path": "235.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 1,
+        "color_1": 7,
+        "color_2": 127,
+        "color_3": 119,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "floette": {
+        "path": "670.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 5,
+        "color_1": 119,
+        "color_2": 7,
+        "color_3": 83,
+        "type_1": 18,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "gulpin": {
+        "path": "316.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 7,
+        "color_2": 57,
+        "color_3": 32,
+        "type_1": 7,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "tangrowth": {
+        "path": "465.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 123,
+        "color_1": 7,
+        "color_2": 13,
+        "color_3": 54,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "ponyta": {
+        "path": "77.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 6,
+        "color_2": 48,
+        "color_3": 106,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "ferrothorn": {
+        "path": "598.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 34,
+        "color_2": 49,
+        "color_3": 7,
+        "type_1": 4,
+        "type_2": 15,
+        "location": "Kant"
+    },
+    "grotle": {
+        "path": "388.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 7,
+        "color_2": 27,
+        "color_3": 25,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "inkay": {
+        "path": "686.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 68,
+        "color_1": 72,
+        "color_2": 7,
+        "color_3": 135,
+        "type_1": 17,
+        "type_2": 11,
         "location": "Unys"
     },
-    "572.png": {
+    "rhydon": {
+        "path": "112.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#b3a09b",
-        "color_1": "#1b1615",
-        "color_2": "#e1ddda",
-        "color_3": "#dddddf",
-        "type_1": "Dragon",
-        "type_2": null,
+        "color_0": 72,
+        "color_1": 120,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 10,
+        "location": "Hoenn"
+    },
+    "deoxys-normal": {
+        "path": "386-defense.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 31,
+        "color_1": 13,
+        "color_2": 7,
+        "color_3": 119,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "relicanth": {
+        "path": "369.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 112,
+        "color_2": 39,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 10,
+        "location": "Hoenn"
+    },
+    "spinarak": {
+        "path": "167.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 32,
+        "color_2": 39,
+        "color_3": 116,
+        "type_1": 13,
+        "type_2": 7,
+        "location": "Galar"
+    },
+    "mantine": {
+        "path": "226.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 58,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 120,
+        "type_1": 3,
+        "type_2": 5,
+        "location": "Sinnoh"
+    },
+    "metagross": {
+        "path": "376-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 123,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 11,
+        "location": "Alola"
+    },
+    "aerodactyl": {
+        "path": "142-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 39,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 5,
+        "location": "Kalos"
+    },
+    "lickilicky": {
+        "path": "463.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 31,
+        "color_2": 7,
+        "color_3": 135,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "kakuna": {
+        "path": "14.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 12,
+        "color_1": 7,
+        "color_2": 25,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 7,
+        "location": "Sinnoh"
+    },
+    "patrat": {
+        "path": "504.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 66,
+        "color_2": 7,
+        "color_3": 106,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "murkrow": {
+        "path": "198.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 12,
+        "color_1": 34,
+        "color_2": 7,
+        "color_3": 33,
+        "type_1": 17,
+        "type_2": 5,
+        "location": "Kant"
+    },
+    "tyrogue": {
+        "path": "236.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 129,
+        "color_1": 7,
+        "color_2": 23,
+        "color_3": 119,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "torkoal": {
+        "path": "324.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 45,
+        "color_1": 39,
+        "color_2": 127,
+        "color_3": 7,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "cottonee": {
+        "path": "546.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 83,
+        "color_1": 5,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 4,
+        "type_2": 18,
         "location": "Unys"
     },
-    "11.png": {
+    "riolu": {
+        "path": "447.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": "#a2d45e",
-        "color_1": "#0f160c",
-        "color_2": "#79a542",
-        "color_3": "#cae7ca",
-        "type_1": "Fee",
-        "type_2": null,
+        "color_0": 34,
+        "color_1": 23,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "cofagrigus": {
+        "path": "563.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 57,
+        "color_2": 49,
+        "color_3": 49,
+        "type_1": 14,
+        "type_2": 0,
         "location": "Unys"
+    },
+    "skorupi": {
+        "path": "451.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 72,
+        "color_2": 33,
+        "color_3": 45,
+        "type_1": 7,
+        "type_2": 13,
+        "location": "Kant"
+    },
+    "venipede": {
+        "path": "543.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 54,
+        "color_1": 34,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 7,
+        "location": "Kalos"
+    },
+    "vibrava": {
+        "path": "329.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 7,
+        "color_2": 100,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 16,
+        "location": "Hoenn"
+    },
+    "scolipede": {
+        "path": "545.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 54,
+        "color_2": 34,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 7,
+        "location": "Kant"
+    },
+    "pansear": {
+        "path": "513.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 115,
+        "color_1": 7,
+        "color_2": 57,
+        "color_3": 54,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "pupitar": {
+        "path": "247.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 72,
+        "color_1": 7,
+        "color_2": 73,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 9,
+        "location": "Johto"
+    },
+    "meloetta-aria": {
+        "path": "648.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 66,
+        "color_2": 49,
+        "color_3": 135,
+        "type_1": 1,
+        "type_2": 11,
+        "location": "Kant"
+    },
+    "hariyama": {
+        "path": "297.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 33,
+        "color_1": 92,
+        "color_2": 112,
+        "color_3": 7,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "dunsparce": {
+        "path": "206.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 13,
+        "color_1": 57,
+        "color_2": 7,
+        "color_3": 5,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "masquerain": {
+        "path": "284.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 31,
+        "color_1": 7,
+        "color_2": 58,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 5,
+        "location": "Hoenn"
+    },
+    "unown": {
+        "path": "201-f.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 45,
+        "color_2": 39,
+        "color_3": 7,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "registeel": {
+        "path": "379.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 34,
+        "color_2": 66,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "watchog": {
+        "path": "505.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 114,
+        "color_1": 66,
+        "color_2": 48,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "azumarill": {
+        "path": "184.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 126,
+        "color_1": 7,
+        "color_2": 66,
+        "color_3": 54,
+        "type_1": 3,
+        "type_2": 18,
+        "location": "Alola"
+    },
+    "taillow": {
+        "path": "276.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 103,
+        "color_1": 34,
+        "color_2": 58,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Johto"
+    },
+    "aromatisse": {
+        "path": "683.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 34,
+        "color_2": 68,
+        "color_3": 7,
+        "type_1": 18,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "malamar": {
+        "path": "687.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 72,
+        "color_1": 7,
+        "color_2": 45,
+        "color_3": 39,
+        "type_1": 17,
+        "type_2": 11,
+        "location": "Galar"
+    },
+    "rotom": {
+        "path": "479.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 126,
+        "color_1": 89,
+        "color_2": 62,
+        "color_3": 115,
+        "type_1": 8,
+        "type_2": 14,
+        "location": "Kalos"
+    },
+    "hoopa-confined": {
+        "path": "720-unbound.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 7,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 11,
+        "type_2": 14,
+        "location": "Unys"
+    },
+    "nidoqueen": {
+        "path": "31.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 13,
+        "type_1": 7,
+        "type_2": 9,
+        "location": "Unys"
+    },
+    "shieldon": {
+        "path": "410.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 133,
+        "type_1": 10,
+        "type_2": 15,
+        "location": "Kant"
+    },
+    "camerupt": {
+        "path": "323-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 31,
+        "color_1": 34,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 2,
+        "type_2": 9,
+        "location": "Johto"
+    },
+    "sharpedo": {
+        "path": "319-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 33,
+        "color_2": 66,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 17,
+        "location": "Kalos"
+    },
+    "roggenrola": {
+        "path": "524.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 39,
+        "color_2": 34,
+        "color_3": 25,
+        "type_1": 10,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "spearow": {
+        "path": "21.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 54,
+        "color_1": 7,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Kant"
+    },
+    "prinplup": {
+        "path": "394.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 106,
+        "color_1": 33,
+        "color_2": 73,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "frillish": {
+        "path": "592.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 45,
+        "color_1": 121,
+        "color_2": 128,
+        "color_3": 128,
+        "type_1": 3,
+        "type_2": 14,
+        "location": "Kant"
+    },
+    "magmortar": {
+        "path": "467.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 116,
+        "color_1": 27,
+        "color_2": 54,
+        "color_3": 7,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "raichu": {
+        "path": "26.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 27,
+        "color_1": 12,
+        "color_2": 1,
+        "color_3": 25,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "giratina-altered": {
+        "path": "487-altered.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 34,
+        "color_2": 12,
+        "color_3": 23,
+        "type_1": 14,
+        "type_2": 16,
+        "location": "Hoenn"
+    },
+    "jumpluff": {
+        "path": "189.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 127,
+        "color_1": 72,
+        "color_2": 7,
+        "color_3": 8,
+        "type_1": 4,
+        "type_2": 5,
+        "location": "Johto"
+    },
+    "simisage": {
+        "path": "512.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 83,
+        "color_2": 7,
+        "color_3": 100,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "farfetchd": {
+        "path": "83.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 48,
+        "color_1": 49,
+        "color_2": 7,
+        "color_3": 120,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Sinnoh"
+    },
+    "tropius": {
+        "path": "357.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 7,
+        "color_2": 127,
+        "color_3": 7,
+        "type_1": 4,
+        "type_2": 5,
+        "location": "Hoenn"
+    },
+    "articuno": {
+        "path": "144.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 73,
+        "color_1": 126,
+        "color_2": 49,
+        "color_3": 7,
+        "type_1": 12,
+        "type_2": 5,
+        "location": "Kant"
+    },
+    "zorua": {
+        "path": "570.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 34,
+        "color_2": 11,
+        "color_3": 77,
+        "type_1": 17,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "pyroar": {
+        "path": "668f.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 12,
+        "color_1": 119,
+        "color_2": 41,
+        "color_3": 34,
+        "type_1": 2,
+        "type_2": 1,
+        "location": "Unys"
+    },
+    "drifloon": {
+        "path": "425.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 116,
+        "color_1": 7,
+        "color_2": 72,
+        "color_3": 135,
+        "type_1": 14,
+        "type_2": 5,
+        "location": "Kant"
+    },
+    "swampert": {
+        "path": "260.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 121,
+        "color_2": 7,
+        "color_3": 120,
+        "type_1": 3,
+        "type_2": 9,
+        "location": "Kant"
+    },
+    "pawniard": {
+        "path": "624.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 39,
+        "color_2": 45,
+        "color_3": 34,
+        "type_1": 17,
+        "type_2": 15,
+        "location": "Kant"
+    },
+    "quilladin": {
+        "path": "651.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 27,
+        "color_1": 12,
+        "color_2": 25,
+        "color_3": 7,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "nidoran-m": {
+        "path": "32.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 117,
+        "color_1": 120,
+        "color_2": 7,
+        "color_3": 49,
+        "type_1": 7,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "swablu": {
+        "path": "333.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 46,
+        "color_1": 121,
+        "color_2": 7,
+        "color_3": 73,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Sinnoh"
+    },
+    "furfrou": {
+        "path": "676-diamond.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 5,
+        "color_1": 116,
+        "color_2": 34,
+        "color_3": 23,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "magby": {
+        "path": "240.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 63,
+        "color_1": 7,
+        "color_2": 100,
+        "color_3": 54,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "karrablast": {
+        "path": "588.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 116,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 126,
+        "type_1": 13,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "minccino": {
+        "path": "572.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 45,
+        "color_1": 7,
+        "color_2": 23,
+        "color_3": 45,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "metapod": {
+        "path": "11.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 96,
+        "color_1": 7,
+        "color_2": 25,
+        "color_3": 66,
+        "type_1": 13,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "garbodor": {
+        "path": "569.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 7,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "dusclops": {
+        "path": "356.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 66,
+        "color_1": 7,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 14,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "garchomp": {
+        "path": "445-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 120,
+        "color_2": 119,
+        "color_3": 7,
+        "type_1": 16,
+        "type_2": 9,
+        "location": "Sinnoh"
+    },
+    "gogoat": {
+        "path": "673.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 66,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 117,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "pikachu": {
+        "path": "25-pop-star.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 90,
+        "color_2": 57,
+        "color_3": 112,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "bouffalant": {
+        "path": "626.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 100,
+        "color_1": 27,
+        "color_2": 7,
+        "color_3": 49,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "larvitar": {
+        "path": "246.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 120,
+        "color_2": 49,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 9,
+        "location": "Hoenn"
+    },
+    "cherubi": {
+        "path": "420.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 63,
+        "color_1": 117,
+        "color_2": 7,
+        "color_3": 54,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "wailmer": {
+        "path": "320.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 126,
+        "color_1": 6,
+        "color_2": 13,
+        "color_3": 34,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "bonsly": {
+        "path": "438.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 83,
+        "color_1": 39,
+        "color_2": 25,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "mareep": {
+        "path": "179.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 127,
+        "color_2": 126,
+        "color_3": 6,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "minun": {
+        "path": "312.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 100,
+        "color_1": 7,
+        "color_2": 121,
+        "color_3": 7,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "zekrom": {
+        "path": "644.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 16,
+        "type_2": 8,
+        "location": "Kalos"
+    },
+    "venonat": {
+        "path": "48.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 123,
+        "color_1": 23,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 7,
+        "location": "Sinnoh"
+    },
+    "gengar": {
+        "path": "94.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 123,
+        "color_1": 77,
+        "color_2": 34,
+        "color_3": 23,
+        "type_1": 14,
+        "type_2": 7,
+        "location": "Galar"
+    },
+    "ninjask": {
+        "path": "291.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 54,
+        "color_1": 135,
+        "color_2": 7,
+        "color_3": 12,
+        "type_1": 13,
+        "type_2": 5,
+        "location": "Hoenn"
+    },
+    "carracosta": {
+        "path": "565.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 123,
+        "color_1": 17,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 3,
+        "type_2": 10,
+        "location": "Kalos"
+    },
+    "sunflora": {
+        "path": "192.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 91,
+        "color_2": 7,
+        "color_3": 57,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "excadrill": {
+        "path": "530.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 120,
+        "color_2": 34,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 15,
+        "location": "Sinnoh"
+    },
+    "magcargo": {
+        "path": "219.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 12,
+        "color_2": 54,
+        "color_3": 123,
+        "type_1": 2,
+        "type_2": 10,
+        "location": "Sinnoh"
+    },
+    "panpour": {
+        "path": "515.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 121,
+        "color_1": 57,
+        "color_2": 7,
+        "color_3": 13,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "girafarig": {
+        "path": "203.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 48,
+        "color_2": 129,
+        "color_3": 106,
+        "type_1": 1,
+        "type_2": 11,
+        "location": "Kalos"
+    },
+    "cubone": {
+        "path": "104.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 127,
+        "color_1": 7,
+        "color_2": 45,
+        "color_3": 49,
+        "type_1": 9,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "barboach": {
+        "path": "339.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 7,
+        "color_2": 17,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 9,
+        "location": "Johto"
+    },
+    "charizard": {
+        "path": "6.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 31,
+        "color_1": 7,
+        "color_2": 21,
+        "color_3": 100,
+        "type_1": 2,
+        "type_2": 5,
+        "location": "Johto"
+    },
+    "doduo": {
+        "path": "84.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 7,
+        "color_2": 127,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Kalos"
+    },
+    "groudon": {
+        "path": "383.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 66,
+        "color_2": 7,
+        "color_3": 41,
+        "type_1": 9,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "bastiodon": {
+        "path": "411.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 39,
+        "color_2": 66,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 15,
+        "location": "Galar"
+    },
+    "espeon": {
+        "path": "196.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 7,
+        "color_2": 129,
+        "color_3": 39,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "misdreavus": {
+        "path": "200.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 72,
+        "color_1": 33,
+        "color_2": 112,
+        "color_3": 7,
+        "type_1": 14,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "koffing": {
+        "path": "109.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 7,
+        "color_2": 49,
+        "color_3": 39,
+        "type_1": 7,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "bellossom": {
+        "path": "182.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 106,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 127,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "spoink": {
+        "path": "325.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 129,
+        "color_2": 7,
+        "color_3": 23,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "hoppip": {
+        "path": "187.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 68,
+        "color_1": 7,
+        "color_2": 32,
+        "color_3": 112,
+        "type_1": 4,
+        "type_2": 5,
+        "location": "Unys"
+    },
+    "dodrio": {
+        "path": "85.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 127,
+        "color_1": 34,
+        "color_2": 49,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Kant"
+    },
+    "lotad": {
+        "path": "270.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 57,
+        "type_1": 3,
+        "type_2": 4,
+        "location": "Sinnoh"
+    },
+    "emboar": {
+        "path": "500.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 27,
+        "color_1": 116,
+        "color_2": 7,
+        "color_3": 66,
+        "type_1": 2,
+        "type_2": 6,
+        "location": "Sinnoh"
+    },
+    "uxie": {
+        "path": "480.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 57,
+        "color_1": 7,
+        "color_2": 72,
+        "color_3": 62,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "houndoom": {
+        "path": "229.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 23,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 17,
+        "type_2": 2,
+        "location": "Hoenn"
+    },
+    "infernape": {
+        "path": "392.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 106,
+        "color_1": 45,
+        "color_2": 7,
+        "color_3": 39,
+        "type_1": 2,
+        "type_2": 6,
+        "location": "Hoenn"
+    },
+    "torchic": {
+        "path": "255.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 116,
+        "color_1": 7,
+        "color_2": 106,
+        "color_3": 57,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "corphish": {
+        "path": "341.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 133,
+        "color_1": 7,
+        "color_2": 16,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "ralts": {
+        "path": "280.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 7,
+        "color_2": 58,
+        "color_3": 49,
+        "type_1": 11,
+        "type_2": 18,
+        "location": "Alola"
+    },
+    "chimecho": {
+        "path": "358.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 58,
+        "color_2": 7,
+        "color_3": 12,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "carvanha": {
+        "path": "318.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 12,
+        "color_2": 33,
+        "color_3": 54,
+        "type_1": 3,
+        "type_2": 17,
+        "location": "Unys"
+    },
+    "sawsbuck": {
+        "path": "586-autumn.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 57,
+        "color_2": 7,
+        "color_3": 54,
+        "type_1": 1,
+        "type_2": 4,
+        "location": "Unys"
+    },
+    "onix": {
+        "path": "95.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 72,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 120,
+        "type_1": 10,
+        "type_2": 9,
+        "location": "Alola"
+    },
+    "lileep": {
+        "path": "345.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 7,
+        "color_2": 68,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 4,
+        "location": "Galar"
+    },
+    "fearow": {
+        "path": "22.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 106,
+        "color_1": 7,
+        "color_2": 127,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Kant"
+    },
+    "mienfoo": {
+        "path": "619.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 100,
+        "color_2": 54,
+        "color_3": 7,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "froakie": {
+        "path": "656.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 86,
+        "color_2": 100,
+        "color_3": 126,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "kabutops": {
+        "path": "141.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 27,
+        "color_1": 45,
+        "color_2": 7,
+        "color_3": 112,
+        "type_1": 10,
+        "type_2": 3,
+        "location": "Hoenn"
+    },
+    "vanillish": {
+        "path": "583.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 121,
+        "color_1": 0,
+        "color_2": 34,
+        "color_3": 39,
+        "type_1": 12,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "pidgeotto": {
+        "path": "17.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 127,
+        "color_1": 7,
+        "color_2": 7,
+        "color_3": 54,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Kalos"
+    },
+    "diancie": {
+        "path": "719.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 7,
+        "color_2": 49,
+        "color_3": 135,
+        "type_1": 10,
+        "type_2": 18,
+        "location": "Hoenn"
+    },
+    "drilbur": {
+        "path": "529.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 42,
+        "color_1": 39,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "delibird": {
+        "path": "225.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 135,
+        "color_2": 120,
+        "color_3": 119,
+        "type_1": 12,
+        "type_2": 5,
+        "location": "Johto"
+    },
+    "marowak": {
+        "path": "105.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 66,
+        "color_1": 7,
+        "color_2": 112,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "dugtrio": {
+        "path": "51.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 7,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "golem": {
+        "path": "76.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 120,
+        "color_2": 7,
+        "color_3": 49,
+        "type_1": 10,
+        "type_2": 9,
+        "location": "Unys"
+    },
+    "shellos": {
+        "path": "422-east.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 86,
+        "color_1": 25,
+        "color_2": 7,
+        "color_3": 100,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "scizor": {
+        "path": "212.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 119,
+        "color_2": 120,
+        "color_3": 54,
+        "type_1": 13,
+        "type_2": 15,
+        "location": "Galar"
+    },
+    "glalie": {
+        "path": "362-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 66,
+        "color_2": 72,
+        "color_3": 7,
+        "type_1": 12,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "cranidos": {
+        "path": "408.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 123,
+        "color_1": 7,
+        "color_2": 13,
+        "color_3": 66,
+        "type_1": 10,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "weepinbell": {
+        "path": "70.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 66,
+        "color_1": 7,
+        "color_2": 57,
+        "color_3": 32,
+        "type_1": 4,
+        "type_2": 7,
+        "location": "Kant"
+    },
+    "vaporeon": {
+        "path": "134.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 121,
+        "color_1": 123,
+        "color_2": 66,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "carbink": {
+        "path": "703.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 0,
+        "color_2": 7,
+        "color_3": 123,
+        "type_1": 10,
+        "type_2": 18,
+        "location": "Johto"
+    },
+    "magikarp": {
+        "path": "129.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 116,
+        "color_1": 58,
+        "color_2": 7,
+        "color_3": 119,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "persian": {
+        "path": "53.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 133,
+        "color_1": 7,
+        "color_2": 34,
+        "color_3": 127,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "zygarde-50": {
+        "path": "718.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 127,
+        "color_2": 7,
+        "color_3": 137,
+        "type_1": 16,
+        "type_2": 9,
+        "location": "Johto"
+    },
+    "gothita": {
+        "path": "574.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 46,
+        "color_1": 34,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "honedge": {
+        "path": "679.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 62,
+        "color_2": 49,
+        "color_3": 33,
+        "type_1": 15,
+        "type_2": 14,
+        "location": "Unys"
+    },
+    "happiny": {
+        "path": "440.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 7,
+        "color_2": 90,
+        "color_3": 112,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "amoonguss": {
+        "path": "591.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 7,
+        "color_2": 34,
+        "color_3": 66,
+        "type_1": 4,
+        "type_2": 7,
+        "location": "Alola"
+    },
+    "rhyhorn": {
+        "path": "111.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 23,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 9,
+        "type_2": 10,
+        "location": "Kant"
+    },
+    "vespiquen": {
+        "path": "416.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 27,
+        "color_1": 66,
+        "color_2": 116,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 5,
+        "location": "Unys"
+    },
+    "luxray": {
+        "path": "405.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 13,
+        "color_2": 7,
+        "color_3": 48,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "altaria": {
+        "path": "334.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 70,
+        "color_1": 58,
+        "color_2": 7,
+        "color_3": 121,
+        "type_1": 16,
+        "type_2": 5,
+        "location": "Unys"
+    },
+    "wartortle": {
+        "path": "8.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 62,
+        "color_1": 34,
+        "color_2": 13,
+        "color_3": 77,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "xerneas": {
+        "path": "716.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 100,
+        "color_1": 34,
+        "color_2": 72,
+        "color_3": 7,
+        "type_1": 18,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "slurpuff": {
+        "path": "685.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 129,
+        "color_1": 54,
+        "color_2": 7,
+        "color_3": 135,
+        "type_1": 18,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "glaceon": {
+        "path": "471.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 109,
+        "color_1": 126,
+        "color_2": 7,
+        "color_3": 79,
+        "type_1": 12,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "toxicroak": {
+        "path": "454.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 13,
+        "color_2": 54,
+        "color_3": 123,
+        "type_1": 7,
+        "type_2": 6,
+        "location": "Sinnoh"
+    },
+    "mothim": {
+        "path": "414.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 106,
+        "color_1": 34,
+        "color_2": 57,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 5,
+        "location": "Kalos"
+    },
+    "hippopotas": {
+        "path": "449.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 25,
+        "color_1": 7,
+        "color_2": 12,
+        "color_3": 114,
+        "type_1": 9,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "alakazam": {
+        "path": "65.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 7,
+        "color_2": 116,
+        "color_3": 100,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "kricketune": {
+        "path": "402.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 54,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "joltik": {
+        "path": "595.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 57,
+        "color_1": 33,
+        "color_2": 106,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 8,
+        "location": "Kant"
+    },
+    "kangaskhan": {
+        "path": "115.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 7,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "scrafty": {
+        "path": "560.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 12,
+        "color_1": 7,
+        "color_2": 106,
+        "color_3": 46,
+        "type_1": 17,
+        "type_2": 6,
+        "location": "Alola"
     }
 }

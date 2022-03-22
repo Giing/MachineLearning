@@ -3,3 +3,5 @@ sklearn
 graphviz
 pydotplus
 pillow
+webcolors
+scipy
