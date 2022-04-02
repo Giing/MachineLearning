@@ -1,54 +1,54 @@
 {
-    "dustox": {
-        "path": "269.png",
+    "klefki": {
+        "path": "707.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": 96,
-        "color_1": 120,
-        "color_2": 7,
-        "color_3": 25,
-        "type_1": 13,
-        "type_2": 7,
-        "location": "Hoenn"
-    },
-    "aegislash-blade": {
-        "path": "681.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 127,
-        "color_1": 34,
-        "color_2": 49,
-        "color_3": 77,
+        "color_0": 112,
+        "color_1": 7,
+        "color_2": 45,
+        "color_3": 34,
         "type_1": 15,
-        "type_2": 14,
+        "type_2": 18,
+        "location": "Sinnoh"
+    },
+    "vivillon": {
+        "path": "666-elegant.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 33,
+        "color_1": 108,
+        "color_2": 106,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 5,
         "location": "Unys"
     },
-    "chikorita": {
-        "path": "152.png",
+    "deerling": {
+        "path": "585-summer.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": 100,
-        "color_1": 49,
+        "color_0": 117,
+        "color_1": 104,
         "color_2": 7,
-        "color_3": 32,
-        "type_1": 4,
-        "type_2": 0,
-        "location": "Kant"
+        "color_3": 25,
+        "type_1": 1,
+        "type_2": 4,
+        "location": "Unys"
     },
-    "binacle": {
-        "path": "688.png",
+    "loudred": {
+        "path": "294.png",
         "size": [
             256,
             256
@@ -56,159 +56,15 @@
         "format": ".png",
         "orientation": "square",
         "color_0": 39,
-        "color_1": 45,
-        "color_2": 106,
-        "color_3": 7,
-        "type_1": 10,
-        "type_2": 3,
-        "location": "Unys"
-    },
-    "noibat": {
-        "path": "714.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 120,
+        "color_1": 133,
         "color_2": 7,
-        "color_3": 49,
-        "type_1": 5,
-        "type_2": 16,
-        "location": "Kant"
-    },
-    "solrock": {
-        "path": "338.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 106,
-        "color_1": 12,
-        "color_2": 7,
-        "color_3": 7,
-        "type_1": 10,
-        "type_2": 11,
-        "location": "Johto"
-    },
-    "volbeat": {
-        "path": "313.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 115,
-        "color_2": 7,
-        "color_3": 73,
-        "type_1": 13,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "slowbro": {
-        "path": "80.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 127,
-        "color_1": 45,
-        "color_2": 7,
-        "color_3": 49,
-        "type_1": 3,
-        "type_2": 11,
-        "location": "Unys"
-    },
-    "mankey": {
-        "path": "56.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 45,
-        "color_1": 7,
-        "color_2": 112,
-        "color_3": 7,
-        "type_1": 6,
-        "type_2": 0,
-        "location": "Sinnoh"
-    },
-    "lucario": {
-        "path": "448.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 13,
-        "color_1": 7,
-        "color_2": 133,
-        "color_3": 39,
-        "type_1": 6,
-        "type_2": 15,
-        "location": "Unys"
-    },
-    "amaura": {
-        "path": "698.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 62,
-        "color_1": 72,
-        "color_2": 133,
-        "color_3": 7,
-        "type_1": 10,
-        "type_2": 12,
-        "location": "Unys"
-    },
-    "burmy": {
-        "path": "412-trash.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 127,
-        "color_1": 39,
-        "color_2": 7,
-        "color_3": 112,
-        "type_1": 13,
+        "color_3": 23,
+        "type_1": 1,
         "type_2": 0,
         "location": "Alola"
     },
-    "blastoise": {
-        "path": "9.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 66,
-        "color_1": 39,
-        "color_2": 13,
-        "color_3": 7,
-        "type_1": 3,
-        "type_2": 0,
-        "location": "Sinnoh"
-    },
-    "victreebel": {
-        "path": "71.png",
+    "electrike": {
+        "path": "309.png",
         "size": [
             256,
             256
@@ -219,76 +75,92 @@
         "color_1": 7,
         "color_2": 57,
         "color_3": 7,
-        "type_1": 4,
-        "type_2": 7,
-        "location": "Alola"
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Galar"
     },
-    "escavalier": {
-        "path": "589.png",
+    "genesect": {
+        "path": "649.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": 49,
-        "color_1": 7,
-        "color_2": 120,
-        "color_3": 54,
+        "color_0": 39,
+        "color_1": 129,
+        "color_2": 7,
+        "color_3": 112,
         "type_1": 13,
         "type_2": 15,
-        "location": "Johto"
-    },
-    "exploud": {
-        "path": "295.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 12,
-        "color_2": 73,
-        "color_3": 72,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "beldum": {
-        "path": "374.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 13,
-        "color_2": 73,
-        "color_3": 7,
-        "type_1": 15,
-        "type_2": 11,
-        "location": "Sinnoh"
-    },
-    "scraggy": {
-        "path": "559.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 57,
-        "color_1": 7,
-        "color_2": 65,
-        "color_3": 25,
-        "type_1": 17,
-        "type_2": 6,
         "location": "Unys"
     },
-    "wigglytuff": {
-        "path": "40.png",
+    "articuno": {
+        "path": "144.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 126,
+        "color_2": 73,
+        "color_3": 49,
+        "type_1": 12,
+        "type_2": 5,
+        "location": "Unys"
+    },
+    "hitmontop": {
+        "path": "237.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 126,
+        "color_1": 49,
+        "color_2": 7,
+        "color_3": 127,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "aggron": {
+        "path": "306.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 72,
+        "color_2": 45,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 10,
+        "location": "Sinnoh"
+    },
+    "aegislash-blade": {
+        "path": "681-blade.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 127,
+        "color_2": 34,
+        "color_3": 45,
+        "type_1": 15,
+        "type_2": 14,
+        "location": "Galar"
+    },
+    "exeggcute": {
+        "path": "102.png",
         "size": [
             256,
             256
@@ -296,31 +168,31 @@
         "format": ".png",
         "orientation": "square",
         "color_0": 90,
-        "color_1": 34,
-        "color_2": 7,
-        "color_3": 120,
-        "type_1": 1,
-        "type_2": 18,
-        "location": "Galar"
-    },
-    "mightyena": {
-        "path": "262.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 39,
-        "color_1": 120,
-        "color_2": 7,
-        "color_3": 7,
-        "type_1": 17,
-        "type_2": 0,
+        "color_1": 7,
+        "color_2": 120,
+        "color_3": 39,
+        "type_1": 4,
+        "type_2": 11,
         "location": "Sinnoh"
     },
-    "wormadam-plant": {
-        "path": "413-plant.png",
+    "rapidash": {
+        "path": "78.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 6,
+        "color_1": 116,
+        "color_2": 34,
+        "color_3": 39,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "pawniard": {
+        "path": "624.png",
         "size": [
             256,
             256
@@ -328,143 +200,15 @@
         "format": ".png",
         "orientation": "square",
         "color_0": 39,
-        "color_1": 77,
-        "color_2": 7,
-        "color_3": 7,
-        "type_1": 13,
-        "type_2": 4,
-        "location": "Unys"
-    },
-    "trapinch": {
-        "path": "328.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 31,
-        "color_1": 7,
-        "color_2": 7,
-        "color_3": 66,
-        "type_1": 9,
-        "type_2": 0,
-        "location": "Unys"
-    },
-    "baltoy": {
-        "path": "343.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 127,
-        "color_1": 7,
-        "color_2": 49,
-        "color_3": 7,
-        "type_1": 9,
-        "type_2": 11,
-        "location": "Galar"
-    },
-    "magnezone": {
-        "path": "462.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 120,
-        "color_1": 123,
+        "color_1": 45,
         "color_2": 34,
         "color_3": 7,
-        "type_1": 8,
+        "type_1": 17,
         "type_2": 15,
-        "location": "Galar"
-    },
-    "gardevoir": {
-        "path": "282-mega.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 73,
-        "color_1": 7,
-        "color_2": 39,
-        "color_3": 46,
-        "type_1": 11,
-        "type_2": 18,
-        "location": "Galar"
-    },
-    "steelix": {
-        "path": "208.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 120,
-        "color_1": 39,
-        "color_2": 7,
-        "color_3": 72,
-        "type_1": 15,
-        "type_2": 9,
-        "location": "Kant"
-    },
-    "fletchinder": {
-        "path": "662.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 106,
-        "color_1": 34,
-        "color_2": 66,
-        "color_3": 7,
-        "type_1": 2,
-        "type_2": 5,
-        "location": "Kant"
-    },
-    "gastly": {
-        "path": "92.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 112,
-        "color_1": 7,
-        "color_2": 58,
-        "color_3": 49,
-        "type_1": 14,
-        "type_2": 7,
-        "location": "Johto"
-    },
-    "blaziken": {
-        "path": "257.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 12,
-        "color_1": 54,
-        "color_2": 7,
-        "color_3": 6,
-        "type_1": 2,
-        "type_2": 6,
         "location": "Unys"
     },
-    "tornadus-incarnate": {
-        "path": "641-therian.png",
+    "hitmonchan": {
+        "path": "107.png",
         "size": [
             256,
             256
@@ -473,571 +217,11 @@
         "orientation": "square",
         "color_0": 7,
         "color_1": 49,
-        "color_2": 45,
-        "color_3": 49,
-        "type_1": 5,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "electivire": {
-        "path": "466.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 25,
-        "color_1": 34,
-        "color_2": 12,
-        "color_3": 7,
-        "type_1": 8,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "goodra": {
-        "path": "706.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 23,
-        "color_1": 34,
-        "color_2": 45,
-        "color_3": 7,
-        "type_1": 16,
-        "type_2": 0,
-        "location": "Alola"
-    },
-    "cyndaquil": {
-        "path": "155.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 100,
-        "color_1": 106,
-        "color_2": 7,
-        "color_3": 39,
-        "type_1": 2,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "plusle": {
-        "path": "311.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 112,
-        "color_1": 7,
-        "color_2": 6,
-        "color_3": 54,
-        "type_1": 8,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "smeargle": {
-        "path": "235.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 1,
-        "color_1": 7,
-        "color_2": 127,
-        "color_3": 119,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Sinnoh"
-    },
-    "floette": {
-        "path": "670.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 5,
-        "color_1": 119,
-        "color_2": 7,
-        "color_3": 83,
-        "type_1": 18,
-        "type_2": 0,
-        "location": "Hoenn"
-    },
-    "gulpin": {
-        "path": "316.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 120,
-        "color_1": 7,
-        "color_2": 57,
-        "color_3": 32,
-        "type_1": 7,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "tangrowth": {
-        "path": "465.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 123,
-        "color_1": 7,
-        "color_2": 13,
-        "color_3": 54,
-        "type_1": 4,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "ponyta": {
-        "path": "77.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 6,
-        "color_2": 48,
-        "color_3": 106,
-        "type_1": 2,
-        "type_2": 0,
-        "location": "Alola"
-    },
-    "ferrothorn": {
-        "path": "598.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 120,
-        "color_1": 34,
-        "color_2": 49,
-        "color_3": 7,
-        "type_1": 4,
-        "type_2": 15,
-        "location": "Kant"
-    },
-    "grotle": {
-        "path": "388.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 32,
-        "color_1": 7,
-        "color_2": 27,
-        "color_3": 25,
-        "type_1": 4,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "inkay": {
-        "path": "686.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 68,
-        "color_1": 72,
-        "color_2": 7,
-        "color_3": 135,
-        "type_1": 17,
-        "type_2": 11,
-        "location": "Unys"
-    },
-    "rhydon": {
-        "path": "112.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 72,
-        "color_1": 120,
-        "color_2": 7,
-        "color_3": 7,
-        "type_1": 9,
-        "type_2": 10,
-        "location": "Hoenn"
-    },
-    "deoxys-normal": {
-        "path": "386-defense.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 31,
-        "color_1": 13,
-        "color_2": 7,
-        "color_3": 119,
-        "type_1": 11,
-        "type_2": 0,
-        "location": "Sinnoh"
-    },
-    "relicanth": {
-        "path": "369.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 112,
-        "color_2": 39,
-        "color_3": 7,
-        "type_1": 3,
-        "type_2": 10,
-        "location": "Hoenn"
-    },
-    "spinarak": {
-        "path": "167.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 32,
-        "color_2": 39,
-        "color_3": 116,
-        "type_1": 13,
-        "type_2": 7,
-        "location": "Galar"
-    },
-    "mantine": {
-        "path": "226.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 58,
-        "color_1": 39,
         "color_2": 7,
         "color_3": 120,
-        "type_1": 3,
-        "type_2": 5,
-        "location": "Sinnoh"
-    },
-    "metagross": {
-        "path": "376-mega.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 123,
-        "color_2": 120,
-        "color_3": 7,
-        "type_1": 15,
-        "type_2": 11,
-        "location": "Alola"
-    },
-    "aerodactyl": {
-        "path": "142-mega.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 39,
-        "color_2": 23,
-        "color_3": 7,
-        "type_1": 10,
-        "type_2": 5,
-        "location": "Kalos"
-    },
-    "lickilicky": {
-        "path": "463.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 112,
-        "color_1": 31,
-        "color_2": 7,
-        "color_3": 135,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Alola"
-    },
-    "kakuna": {
-        "path": "14.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 12,
-        "color_1": 7,
-        "color_2": 25,
-        "color_3": 7,
-        "type_1": 13,
-        "type_2": 7,
-        "location": "Sinnoh"
-    },
-    "patrat": {
-        "path": "504.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 119,
-        "color_1": 66,
-        "color_2": 7,
-        "color_3": 106,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "murkrow": {
-        "path": "198.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 12,
-        "color_1": 34,
-        "color_2": 7,
-        "color_3": 33,
-        "type_1": 17,
-        "type_2": 5,
-        "location": "Kant"
-    },
-    "tyrogue": {
-        "path": "236.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 129,
-        "color_1": 7,
-        "color_2": 23,
-        "color_3": 119,
         "type_1": 6,
         "type_2": 0,
-        "location": "Kalos"
-    },
-    "torkoal": {
-        "path": "324.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 45,
-        "color_1": 39,
-        "color_2": 127,
-        "color_3": 7,
-        "type_1": 2,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "cottonee": {
-        "path": "546.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 83,
-        "color_1": 5,
-        "color_2": 23,
-        "color_3": 7,
-        "type_1": 4,
-        "type_2": 18,
-        "location": "Unys"
-    },
-    "riolu": {
-        "path": "447.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 23,
-        "color_2": 7,
-        "color_3": 7,
-        "type_1": 6,
-        "type_2": 0,
-        "location": "Sinnoh"
-    },
-    "cofagrigus": {
-        "path": "563.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 57,
-        "color_2": 49,
-        "color_3": 49,
-        "type_1": 14,
-        "type_2": 0,
-        "location": "Unys"
-    },
-    "skorupi": {
-        "path": "451.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 72,
-        "color_2": 33,
-        "color_3": 45,
-        "type_1": 7,
-        "type_2": 13,
-        "location": "Kant"
-    },
-    "venipede": {
-        "path": "543.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 54,
-        "color_1": 34,
-        "color_2": 7,
-        "color_3": 7,
-        "type_1": 13,
-        "type_2": 7,
-        "location": "Kalos"
-    },
-    "vibrava": {
-        "path": "329.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 7,
-        "color_2": 100,
-        "color_3": 7,
-        "type_1": 9,
-        "type_2": 16,
-        "location": "Hoenn"
-    },
-    "scolipede": {
-        "path": "545.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 119,
-        "color_1": 54,
-        "color_2": 34,
-        "color_3": 7,
-        "type_1": 13,
-        "type_2": 7,
-        "location": "Kant"
-    },
-    "pansear": {
-        "path": "513.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 115,
-        "color_1": 7,
-        "color_2": 57,
-        "color_3": 54,
-        "type_1": 2,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "pupitar": {
-        "path": "247.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 72,
-        "color_1": 7,
-        "color_2": 73,
-        "color_3": 7,
-        "type_1": 10,
-        "type_2": 9,
-        "location": "Johto"
-    },
-    "meloetta-aria": {
-        "path": "648.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 66,
-        "color_2": 49,
-        "color_3": 135,
-        "type_1": 1,
-        "type_2": 11,
-        "location": "Kant"
+        "location": "Galar"
     },
     "hariyama": {
         "path": "297.png",
@@ -1047,188 +231,12 @@
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": 33,
-        "color_1": 92,
+        "color_0": 92,
+        "color_1": 7,
         "color_2": 112,
-        "color_3": 7,
+        "color_3": 39,
         "type_1": 6,
         "type_2": 0,
-        "location": "Kalos"
-    },
-    "dunsparce": {
-        "path": "206.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 13,
-        "color_1": 57,
-        "color_2": 7,
-        "color_3": 5,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "masquerain": {
-        "path": "284.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 31,
-        "color_1": 7,
-        "color_2": 58,
-        "color_3": 7,
-        "type_1": 13,
-        "type_2": 5,
-        "location": "Hoenn"
-    },
-    "unown": {
-        "path": "201-f.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 45,
-        "color_2": 39,
-        "color_3": 7,
-        "type_1": 11,
-        "type_2": 0,
-        "location": "Sinnoh"
-    },
-    "registeel": {
-        "path": "379.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 34,
-        "color_2": 66,
-        "color_3": 7,
-        "type_1": 15,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "watchog": {
-        "path": "505.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 114,
-        "color_1": 66,
-        "color_2": 48,
-        "color_3": 7,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Alola"
-    },
-    "azumarill": {
-        "path": "184.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 126,
-        "color_1": 7,
-        "color_2": 66,
-        "color_3": 54,
-        "type_1": 3,
-        "type_2": 18,
-        "location": "Alola"
-    },
-    "taillow": {
-        "path": "276.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 103,
-        "color_1": 34,
-        "color_2": 58,
-        "color_3": 7,
-        "type_1": 1,
-        "type_2": 5,
-        "location": "Johto"
-    },
-    "aromatisse": {
-        "path": "683.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 112,
-        "color_1": 34,
-        "color_2": 68,
-        "color_3": 7,
-        "type_1": 18,
-        "type_2": 0,
-        "location": "Hoenn"
-    },
-    "malamar": {
-        "path": "687.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 72,
-        "color_1": 7,
-        "color_2": 45,
-        "color_3": 39,
-        "type_1": 17,
-        "type_2": 11,
-        "location": "Galar"
-    },
-    "rotom": {
-        "path": "479.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 126,
-        "color_1": 89,
-        "color_2": 62,
-        "color_3": 115,
-        "type_1": 8,
-        "type_2": 14,
-        "location": "Kalos"
-    },
-    "hoopa-confined": {
-        "path": "720-unbound.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 7,
-        "color_2": 120,
-        "color_3": 7,
-        "type_1": 11,
-        "type_2": 14,
         "location": "Unys"
     },
     "nidoqueen": {
@@ -1239,13 +247,349 @@
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": 120,
-        "color_1": 39,
-        "color_2": 7,
-        "color_3": 13,
+        "color_0": 13,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 120,
         "type_1": 7,
         "type_2": 9,
+        "location": "Johto"
+    },
+    "keldeo-ordinary": {
+        "path": "647-ordinary.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 100,
+        "color_1": 34,
+        "color_2": 54,
+        "color_3": 121,
+        "type_1": 3,
+        "type_2": 6,
+        "location": "Johto"
+    },
+    "charizard": {
+        "path": "6-mega-y.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 91,
+        "color_1": 31,
+        "color_2": 39,
+        "color_3": 7,
+        "type_1": 2,
+        "type_2": 5,
+        "location": "Sinnoh"
+    },
+    "buizel": {
+        "path": "418.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 106,
+        "color_1": 7,
+        "color_2": 13,
+        "color_3": 57,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "lairon": {
+        "path": "305.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 45,
+        "color_2": 7,
+        "color_3": 39,
+        "type_1": 15,
+        "type_2": 10,
+        "location": "Kant"
+    },
+    "kakuna": {
+        "path": "14.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 25,
+        "color_1": 7,
+        "color_2": 12,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 7,
+        "location": "Johto"
+    },
+    "spinda": {
+        "path": "327.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 45,
+        "color_1": 7,
+        "color_2": 54,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "wynaut": {
+        "path": "360.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 121,
+        "color_1": 34,
+        "color_2": 54,
+        "color_3": 7,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "emolga": {
+        "path": "587.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 135,
+        "color_2": 116,
+        "color_3": 7,
+        "type_1": 8,
+        "type_2": 5,
+        "location": "Hoenn"
+    },
+    "kyurem": {
+        "path": "646.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 45,
+        "type_1": 16,
+        "type_2": 12,
+        "location": "Kalos"
+    },
+    "skrelp": {
+        "path": "690.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 73,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 7,
+        "type_2": 3,
+        "location": "Hoenn"
+    },
+    "eelektrik": {
+        "path": "603.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 106,
+        "color_1": 33,
+        "color_2": 133,
+        "color_3": 7,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "regigigas": {
+        "path": "486.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 66,
+        "color_2": 39,
+        "color_3": 25,
+        "type_1": 1,
+        "type_2": 0,
         "location": "Unys"
+    },
+    "drifloon": {
+        "path": "425.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 135,
+        "color_2": 116,
+        "color_3": 72,
+        "type_1": 14,
+        "type_2": 5,
+        "location": "Alola"
+    },
+    "manectric": {
+        "path": "310.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 13,
+        "color_1": 12,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "zangoose": {
+        "path": "335.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 135,
+        "color_1": 54,
+        "color_2": 34,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "houndoom": {
+        "path": "229-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 58,
+        "color_2": 39,
+        "color_3": 7,
+        "type_1": 17,
+        "type_2": 2,
+        "location": "Hoenn"
+    },
+    "magcargo": {
+        "path": "219.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 54,
+        "color_1": 123,
+        "color_2": 7,
+        "color_3": 12,
+        "type_1": 2,
+        "type_2": 10,
+        "location": "Alola"
+    },
+    "scrafty": {
+        "path": "560.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 46,
+        "color_1": 106,
+        "color_2": 7,
+        "color_3": 12,
+        "type_1": 17,
+        "type_2": 6,
+        "location": "Kant"
+    },
+    "snubbull": {
+        "path": "209.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 68,
+        "color_1": 34,
+        "color_2": 112,
+        "color_3": 73,
+        "type_1": 18,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "misdreavus": {
+        "path": "200.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 72,
+        "color_2": 7,
+        "color_3": 33,
+        "type_1": 14,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "ferrothorn": {
+        "path": "598.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 49,
+        "color_2": 120,
+        "color_3": 34,
+        "type_1": 4,
+        "type_2": 15,
+        "location": "Galar"
     },
     "shieldon": {
         "path": "410.png",
@@ -1261,106 +605,10 @@
         "color_3": 133,
         "type_1": 10,
         "type_2": 15,
-        "location": "Kant"
-    },
-    "camerupt": {
-        "path": "323-mega.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 31,
-        "color_1": 34,
-        "color_2": 23,
-        "color_3": 7,
-        "type_1": 2,
-        "type_2": 9,
-        "location": "Johto"
-    },
-    "sharpedo": {
-        "path": "319-mega.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 33,
-        "color_2": 66,
-        "color_3": 7,
-        "type_1": 3,
-        "type_2": 17,
         "location": "Kalos"
     },
-    "roggenrola": {
-        "path": "524.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 39,
-        "color_2": 34,
-        "color_3": 25,
-        "type_1": 10,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "spearow": {
-        "path": "21.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 54,
-        "color_1": 7,
-        "color_2": 120,
-        "color_3": 7,
-        "type_1": 1,
-        "type_2": 5,
-        "location": "Kant"
-    },
-    "prinplup": {
-        "path": "394.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 106,
-        "color_1": 33,
-        "color_2": 73,
-        "color_3": 7,
-        "type_1": 3,
-        "type_2": 0,
-        "location": "Hoenn"
-    },
-    "frillish": {
-        "path": "592.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 45,
-        "color_1": 121,
-        "color_2": 128,
-        "color_3": 128,
-        "type_1": 3,
-        "type_2": 14,
-        "location": "Kant"
-    },
-    "magmortar": {
-        "path": "467.png",
+    "teddiursa": {
+        "path": "216.png",
         "size": [
             256,
             256
@@ -1368,255 +616,31 @@
         "format": ".png",
         "orientation": "square",
         "color_0": 116,
-        "color_1": 27,
-        "color_2": 54,
-        "color_3": 7,
-        "type_1": 2,
-        "type_2": 0,
-        "location": "Unys"
-    },
-    "raichu": {
-        "path": "26.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 27,
-        "color_1": 12,
-        "color_2": 1,
-        "color_3": 25,
-        "type_1": 8,
-        "type_2": 0,
-        "location": "Unys"
-    },
-    "giratina-altered": {
-        "path": "487-altered.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 119,
-        "color_1": 34,
-        "color_2": 12,
-        "color_3": 23,
-        "type_1": 14,
-        "type_2": 16,
-        "location": "Hoenn"
-    },
-    "jumpluff": {
-        "path": "189.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 127,
-        "color_1": 72,
-        "color_2": 7,
-        "color_3": 8,
-        "type_1": 4,
-        "type_2": 5,
-        "location": "Johto"
-    },
-    "simisage": {
-        "path": "512.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 32,
-        "color_1": 83,
-        "color_2": 7,
-        "color_3": 100,
-        "type_1": 4,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "farfetchd": {
-        "path": "83.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 48,
-        "color_1": 49,
-        "color_2": 7,
-        "color_3": 120,
+        "color_1": 7,
+        "color_2": 133,
+        "color_3": 106,
         "type_1": 1,
-        "type_2": 5,
+        "type_2": 0,
         "location": "Sinnoh"
     },
-    "tropius": {
-        "path": "357.png",
+    "gyarados": {
+        "path": "130.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": 49,
-        "color_1": 7,
-        "color_2": 127,
-        "color_3": 7,
-        "type_1": 4,
-        "type_2": 5,
-        "location": "Hoenn"
-    },
-    "articuno": {
-        "path": "144.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 73,
+        "color_0": 112,
         "color_1": 126,
-        "color_2": 49,
-        "color_3": 7,
-        "type_1": 12,
-        "type_2": 5,
-        "location": "Kant"
-    },
-    "zorua": {
-        "path": "570.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 39,
-        "color_1": 34,
-        "color_2": 11,
-        "color_3": 77,
-        "type_1": 17,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "pyroar": {
-        "path": "668f.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 12,
-        "color_1": 119,
-        "color_2": 41,
-        "color_3": 34,
-        "type_1": 2,
-        "type_2": 1,
-        "location": "Unys"
-    },
-    "drifloon": {
-        "path": "425.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 116,
-        "color_1": 7,
-        "color_2": 72,
-        "color_3": 135,
-        "type_1": 14,
-        "type_2": 5,
-        "location": "Kant"
-    },
-    "swampert": {
-        "path": "260.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 39,
-        "color_1": 121,
-        "color_2": 7,
+        "color_2": 34,
         "color_3": 120,
         "type_1": 3,
-        "type_2": 9,
-        "location": "Kant"
-    },
-    "pawniard": {
-        "path": "624.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 39,
-        "color_2": 45,
-        "color_3": 34,
-        "type_1": 17,
-        "type_2": 15,
-        "location": "Kant"
-    },
-    "quilladin": {
-        "path": "651.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 27,
-        "color_1": 12,
-        "color_2": 25,
-        "color_3": 7,
-        "type_1": 4,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "nidoran-m": {
-        "path": "32.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 117,
-        "color_1": 120,
-        "color_2": 7,
-        "color_3": 49,
-        "type_1": 7,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "swablu": {
-        "path": "333.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 46,
-        "color_1": 121,
-        "color_2": 7,
-        "color_3": 73,
-        "type_1": 1,
         "type_2": 5,
-        "location": "Sinnoh"
+        "location": "Alola"
     },
     "furfrou": {
-        "path": "676-diamond.png",
+        "path": "676-heart.png",
         "size": [
             256,
             256
@@ -1624,1147 +648,11 @@
         "format": ".png",
         "orientation": "square",
         "color_0": 5,
-        "color_1": 116,
-        "color_2": 34,
-        "color_3": 23,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Hoenn"
-    },
-    "magby": {
-        "path": "240.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 63,
-        "color_1": 7,
-        "color_2": 100,
-        "color_3": 54,
-        "type_1": 2,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "karrablast": {
-        "path": "588.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 116,
         "color_1": 39,
-        "color_2": 7,
-        "color_3": 126,
-        "type_1": 13,
-        "type_2": 0,
-        "location": "Alola"
-    },
-    "minccino": {
-        "path": "572.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 45,
-        "color_1": 7,
-        "color_2": 23,
-        "color_3": 45,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "metapod": {
-        "path": "11.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 96,
-        "color_1": 7,
-        "color_2": 25,
-        "color_3": 66,
-        "type_1": 13,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "garbodor": {
-        "path": "569.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 23,
-        "color_1": 39,
-        "color_2": 7,
-        "color_3": 34,
-        "type_1": 7,
-        "type_2": 0,
-        "location": "Unys"
-    },
-    "dusclops": {
-        "path": "356.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 66,
-        "color_1": 7,
-        "color_2": 23,
-        "color_3": 7,
-        "type_1": 14,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "garchomp": {
-        "path": "445-mega.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 39,
-        "color_1": 120,
-        "color_2": 119,
-        "color_3": 7,
-        "type_1": 16,
-        "type_2": 9,
-        "location": "Sinnoh"
-    },
-    "gogoat": {
-        "path": "673.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 66,
-        "color_1": 7,
-        "color_2": 39,
-        "color_3": 117,
-        "type_1": 4,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "pikachu": {
-        "path": "25-pop-star.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 90,
-        "color_2": 57,
-        "color_3": 112,
-        "type_1": 8,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "bouffalant": {
-        "path": "626.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 100,
-        "color_1": 27,
-        "color_2": 7,
-        "color_3": 49,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Hoenn"
-    },
-    "larvitar": {
-        "path": "246.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 119,
-        "color_1": 120,
-        "color_2": 49,
-        "color_3": 7,
-        "type_1": 10,
-        "type_2": 9,
-        "location": "Hoenn"
-    },
-    "cherubi": {
-        "path": "420.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 63,
-        "color_1": 117,
-        "color_2": 7,
-        "color_3": 54,
-        "type_1": 4,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "wailmer": {
-        "path": "320.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 126,
-        "color_1": 6,
-        "color_2": 13,
-        "color_3": 34,
-        "type_1": 3,
-        "type_2": 0,
-        "location": "Unys"
-    },
-    "bonsly": {
-        "path": "438.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 83,
-        "color_1": 39,
-        "color_2": 25,
-        "color_3": 7,
-        "type_1": 10,
-        "type_2": 0,
-        "location": "Unys"
-    },
-    "mareep": {
-        "path": "179.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 127,
-        "color_2": 126,
-        "color_3": 6,
-        "type_1": 8,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "minun": {
-        "path": "312.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 100,
-        "color_1": 7,
-        "color_2": 121,
-        "color_3": 7,
-        "type_1": 8,
-        "type_2": 0,
-        "location": "Sinnoh"
-    },
-    "zekrom": {
-        "path": "644.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 39,
-        "color_2": 7,
-        "color_3": 7,
-        "type_1": 16,
-        "type_2": 8,
-        "location": "Kalos"
-    },
-    "venonat": {
-        "path": "48.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 123,
-        "color_1": 23,
-        "color_2": 7,
-        "color_3": 7,
-        "type_1": 13,
-        "type_2": 7,
-        "location": "Sinnoh"
-    },
-    "gengar": {
-        "path": "94.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 123,
-        "color_1": 77,
-        "color_2": 34,
-        "color_3": 23,
-        "type_1": 14,
-        "type_2": 7,
-        "location": "Galar"
-    },
-    "ninjask": {
-        "path": "291.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 54,
-        "color_1": 135,
-        "color_2": 7,
-        "color_3": 12,
-        "type_1": 13,
-        "type_2": 5,
-        "location": "Hoenn"
-    },
-    "carracosta": {
-        "path": "565.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 123,
-        "color_1": 17,
-        "color_2": 7,
-        "color_3": 34,
-        "type_1": 3,
-        "type_2": 10,
-        "location": "Kalos"
-    },
-    "sunflora": {
-        "path": "192.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 32,
-        "color_1": 91,
-        "color_2": 7,
-        "color_3": 57,
-        "type_1": 4,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "excadrill": {
-        "path": "530.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 120,
-        "color_2": 34,
-        "color_3": 7,
-        "type_1": 9,
-        "type_2": 15,
-        "location": "Sinnoh"
-    },
-    "magcargo": {
-        "path": "219.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 12,
-        "color_2": 54,
-        "color_3": 123,
-        "type_1": 2,
-        "type_2": 10,
-        "location": "Sinnoh"
-    },
-    "panpour": {
-        "path": "515.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 121,
-        "color_1": 57,
-        "color_2": 7,
-        "color_3": 13,
-        "type_1": 3,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "girafarig": {
-        "path": "203.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 48,
-        "color_2": 129,
-        "color_3": 106,
-        "type_1": 1,
-        "type_2": 11,
-        "location": "Kalos"
-    },
-    "cubone": {
-        "path": "104.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 127,
-        "color_1": 7,
-        "color_2": 45,
-        "color_3": 49,
-        "type_1": 9,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "barboach": {
-        "path": "339.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 120,
-        "color_1": 7,
-        "color_2": 17,
-        "color_3": 7,
-        "type_1": 3,
-        "type_2": 9,
-        "location": "Johto"
-    },
-    "charizard": {
-        "path": "6.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 31,
-        "color_1": 7,
-        "color_2": 21,
-        "color_3": 100,
-        "type_1": 2,
-        "type_2": 5,
-        "location": "Johto"
-    },
-    "doduo": {
-        "path": "84.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 7,
-        "color_2": 127,
-        "color_3": 7,
-        "type_1": 1,
-        "type_2": 5,
-        "location": "Kalos"
-    },
-    "groudon": {
-        "path": "383.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 66,
-        "color_2": 7,
-        "color_3": 41,
-        "type_1": 9,
-        "type_2": 0,
-        "location": "Hoenn"
-    },
-    "bastiodon": {
-        "path": "411.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 39,
-        "color_2": 66,
-        "color_3": 7,
-        "type_1": 10,
-        "type_2": 15,
-        "location": "Galar"
-    },
-    "espeon": {
-        "path": "196.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 23,
-        "color_1": 7,
-        "color_2": 129,
-        "color_3": 39,
-        "type_1": 11,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "misdreavus": {
-        "path": "200.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 72,
-        "color_1": 33,
         "color_2": 112,
         "color_3": 7,
-        "type_1": 14,
-        "type_2": 0,
-        "location": "Hoenn"
-    },
-    "koffing": {
-        "path": "109.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 120,
-        "color_1": 7,
-        "color_2": 49,
-        "color_3": 39,
-        "type_1": 7,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "bellossom": {
-        "path": "182.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 106,
-        "color_1": 7,
-        "color_2": 39,
-        "color_3": 127,
-        "type_1": 4,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "spoink": {
-        "path": "325.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 129,
-        "color_2": 7,
-        "color_3": 23,
-        "type_1": 11,
-        "type_2": 0,
-        "location": "Unys"
-    },
-    "hoppip": {
-        "path": "187.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 68,
-        "color_1": 7,
-        "color_2": 32,
-        "color_3": 112,
-        "type_1": 4,
-        "type_2": 5,
-        "location": "Unys"
-    },
-    "dodrio": {
-        "path": "85.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 127,
-        "color_1": 34,
-        "color_2": 49,
-        "color_3": 7,
         "type_1": 1,
-        "type_2": 5,
-        "location": "Kant"
-    },
-    "lotad": {
-        "path": "270.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 32,
-        "color_1": 7,
-        "color_2": 39,
-        "color_3": 57,
-        "type_1": 3,
-        "type_2": 4,
-        "location": "Sinnoh"
-    },
-    "emboar": {
-        "path": "500.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 27,
-        "color_1": 116,
-        "color_2": 7,
-        "color_3": 66,
-        "type_1": 2,
-        "type_2": 6,
-        "location": "Sinnoh"
-    },
-    "uxie": {
-        "path": "480.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 57,
-        "color_1": 7,
-        "color_2": 72,
-        "color_3": 62,
-        "type_1": 11,
         "type_2": 0,
-        "location": "Kalos"
-    },
-    "houndoom": {
-        "path": "229.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 23,
-        "color_2": 7,
-        "color_3": 7,
-        "type_1": 17,
-        "type_2": 2,
-        "location": "Hoenn"
-    },
-    "infernape": {
-        "path": "392.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 106,
-        "color_1": 45,
-        "color_2": 7,
-        "color_3": 39,
-        "type_1": 2,
-        "type_2": 6,
-        "location": "Hoenn"
-    },
-    "torchic": {
-        "path": "255.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 116,
-        "color_1": 7,
-        "color_2": 106,
-        "color_3": 57,
-        "type_1": 2,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "corphish": {
-        "path": "341.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 133,
-        "color_1": 7,
-        "color_2": 16,
-        "color_3": 7,
-        "type_1": 3,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "ralts": {
-        "path": "280.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 32,
-        "color_1": 7,
-        "color_2": 58,
-        "color_3": 49,
-        "type_1": 11,
-        "type_2": 18,
-        "location": "Alola"
-    },
-    "chimecho": {
-        "path": "358.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 112,
-        "color_1": 58,
-        "color_2": 7,
-        "color_3": 12,
-        "type_1": 11,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "carvanha": {
-        "path": "318.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 12,
-        "color_2": 33,
-        "color_3": 54,
-        "type_1": 3,
-        "type_2": 17,
-        "location": "Unys"
-    },
-    "sawsbuck": {
-        "path": "586-autumn.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 119,
-        "color_1": 57,
-        "color_2": 7,
-        "color_3": 54,
-        "type_1": 1,
-        "type_2": 4,
-        "location": "Unys"
-    },
-    "onix": {
-        "path": "95.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 72,
-        "color_1": 7,
-        "color_2": 39,
-        "color_3": 120,
-        "type_1": 10,
-        "type_2": 9,
-        "location": "Alola"
-    },
-    "lileep": {
-        "path": "345.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 23,
-        "color_1": 7,
-        "color_2": 68,
-        "color_3": 7,
-        "type_1": 10,
-        "type_2": 4,
-        "location": "Galar"
-    },
-    "fearow": {
-        "path": "22.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 106,
-        "color_1": 7,
-        "color_2": 127,
-        "color_3": 7,
-        "type_1": 1,
-        "type_2": 5,
-        "location": "Kant"
-    },
-    "mienfoo": {
-        "path": "619.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 112,
-        "color_1": 100,
-        "color_2": 54,
-        "color_3": 7,
-        "type_1": 6,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "froakie": {
-        "path": "656.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 86,
-        "color_2": 100,
-        "color_3": 126,
-        "type_1": 3,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "kabutops": {
-        "path": "141.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 27,
-        "color_1": 45,
-        "color_2": 7,
-        "color_3": 112,
-        "type_1": 10,
-        "type_2": 3,
-        "location": "Hoenn"
-    },
-    "vanillish": {
-        "path": "583.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 121,
-        "color_1": 0,
-        "color_2": 34,
-        "color_3": 39,
-        "type_1": 12,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "pidgeotto": {
-        "path": "17.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 127,
-        "color_1": 7,
-        "color_2": 7,
-        "color_3": 54,
-        "type_1": 1,
-        "type_2": 5,
-        "location": "Kalos"
-    },
-    "diancie": {
-        "path": "719.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 120,
-        "color_1": 7,
-        "color_2": 49,
-        "color_3": 135,
-        "type_1": 10,
-        "type_2": 18,
-        "location": "Hoenn"
-    },
-    "drilbur": {
-        "path": "529.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 42,
-        "color_1": 39,
-        "color_2": 23,
-        "color_3": 7,
-        "type_1": 9,
-        "type_2": 0,
-        "location": "Hoenn"
-    },
-    "delibird": {
-        "path": "225.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 135,
-        "color_2": 120,
-        "color_3": 119,
-        "type_1": 12,
-        "type_2": 5,
-        "location": "Johto"
-    },
-    "marowak": {
-        "path": "105.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 66,
-        "color_1": 7,
-        "color_2": 112,
-        "color_3": 7,
-        "type_1": 9,
-        "type_2": 0,
-        "location": "Kant"
-    },
-    "dugtrio": {
-        "path": "51.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 7,
-        "color_2": 23,
-        "color_3": 7,
-        "type_1": 9,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "golem": {
-        "path": "76.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 120,
-        "color_2": 7,
-        "color_3": 49,
-        "type_1": 10,
-        "type_2": 9,
-        "location": "Unys"
-    },
-    "shellos": {
-        "path": "422-east.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 86,
-        "color_1": 25,
-        "color_2": 7,
-        "color_3": 100,
-        "type_1": 3,
-        "type_2": 0,
-        "location": "Hoenn"
-    },
-    "scizor": {
-        "path": "212.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 119,
-        "color_2": 120,
-        "color_3": 54,
-        "type_1": 13,
-        "type_2": 15,
-        "location": "Galar"
-    },
-    "glalie": {
-        "path": "362-mega.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 66,
-        "color_2": 72,
-        "color_3": 7,
-        "type_1": 12,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "cranidos": {
-        "path": "408.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 123,
-        "color_1": 7,
-        "color_2": 13,
-        "color_3": 66,
-        "type_1": 10,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "weepinbell": {
-        "path": "70.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 66,
-        "color_1": 7,
-        "color_2": 57,
-        "color_3": 32,
-        "type_1": 4,
-        "type_2": 7,
-        "location": "Kant"
-    },
-    "vaporeon": {
-        "path": "134.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 121,
-        "color_1": 123,
-        "color_2": 66,
-        "color_3": 7,
-        "type_1": 3,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "carbink": {
-        "path": "703.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 23,
-        "color_1": 0,
-        "color_2": 7,
-        "color_3": 123,
-        "type_1": 10,
-        "type_2": 18,
         "location": "Johto"
     },
     "magikarp": {
@@ -2781,26 +669,10 @@
         "color_3": 119,
         "type_1": 3,
         "type_2": 0,
-        "location": "Johto"
-    },
-    "persian": {
-        "path": "53.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 133,
-        "color_1": 7,
-        "color_2": 34,
-        "color_3": 127,
-        "type_1": 1,
-        "type_2": 0,
         "location": "Sinnoh"
     },
-    "zygarde-50": {
-        "path": "718.png",
+    "pineco": {
+        "path": "204.png",
         "size": [
             256,
             256
@@ -2808,31 +680,191 @@
         "format": ".png",
         "orientation": "square",
         "color_0": 34,
-        "color_1": 127,
+        "color_1": 23,
         "color_2": 7,
-        "color_3": 137,
-        "type_1": 16,
-        "type_2": 9,
-        "location": "Johto"
+        "color_3": 123,
+        "type_1": 13,
+        "type_2": 0,
+        "location": "Kant"
     },
-    "gothita": {
-        "path": "574.png",
+    "bouffalant": {
+        "path": "626.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": 46,
-        "color_1": 34,
-        "color_2": 120,
+        "color_0": 100,
+        "color_1": 27,
+        "color_2": 49,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "haxorus": {
+        "path": "612.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 106,
+        "color_2": 7,
+        "color_3": 119,
+        "type_1": 16,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "excadrill": {
+        "path": "530.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 120,
+        "color_2": 7,
+        "color_3": 49,
+        "type_1": 9,
+        "type_2": 15,
+        "location": "Johto"
+    },
+    "dialga": {
+        "path": "483.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 45,
+        "color_1": 33,
+        "color_2": 72,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 16,
+        "location": "Unys"
+    },
+    "deoxys-normal": {
+        "path": "386-speed.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 120,
+        "color_2": 54,
         "color_3": 7,
         "type_1": 11,
         "type_2": 0,
         "location": "Alola"
     },
-    "honedge": {
-        "path": "679.png",
+    "bronzor": {
+        "path": "436.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 12,
+        "color_2": 13,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 11,
+        "location": "Kalos"
+    },
+    "steelix": {
+        "path": "208-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 45,
+        "color_1": 39,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 9,
+        "location": "Galar"
+    },
+    "voltorb": {
+        "path": "100.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 103,
+        "color_1": 45,
+        "color_2": 68,
+        "color_3": 7,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "magnezone": {
+        "path": "462.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 123,
+        "color_1": 34,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 8,
+        "type_2": 15,
+        "location": "Alola"
+    },
+    "kangaskhan": {
+        "path": "115-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 66,
+        "color_1": 7,
+        "color_2": 49,
+        "color_3": 127,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "sharpedo": {
+        "path": "319-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 33,
+        "color_1": 66,
+        "color_2": 7,
+        "color_3": 49,
+        "type_1": 3,
+        "type_2": 17,
+        "location": "Johto"
+    },
+    "sunkern": {
+        "path": "191.png",
         "size": [
             256,
             256
@@ -2840,15 +872,239 @@
         "format": ".png",
         "orientation": "square",
         "color_0": 7,
-        "color_1": 62,
-        "color_2": 49,
-        "color_3": 33,
-        "type_1": 15,
-        "type_2": 14,
+        "color_1": 49,
+        "color_2": 34,
+        "color_3": 12,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "beautifly": {
+        "path": "267.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 116,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 45,
+        "type_1": 13,
+        "type_2": 5,
+        "location": "Johto"
+    },
+    "honchkrow": {
+        "path": "430.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 45,
+        "color_2": 11,
+        "color_3": 7,
+        "type_1": 17,
+        "type_2": 5,
+        "location": "Johto"
+    },
+    "audino": {
+        "path": "531.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 68,
+        "color_1": 7,
+        "color_2": 6,
+        "color_3": 112,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "burmy": {
+        "path": "412-plant.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 96,
+        "color_1": 7,
+        "color_2": 27,
+        "color_3": 49,
+        "type_1": 13,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "swablu": {
+        "path": "333.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 121,
+        "color_1": 46,
+        "color_2": 7,
+        "color_3": 73,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Johto"
+    },
+    "munna": {
+        "path": "517.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 90,
+        "color_1": 7,
+        "color_2": 112,
+        "color_3": 45,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "zweilous": {
+        "path": "634.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 123,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 17,
+        "type_2": 16,
+        "location": "Johto"
+    },
+    "darkrai": {
+        "path": "491.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 66,
+        "color_2": 7,
+        "color_3": 49,
+        "type_1": 17,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "oddish": {
+        "path": "43.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 126,
+        "color_1": 43,
+        "color_2": 32,
+        "color_3": 34,
+        "type_1": 4,
+        "type_2": 7,
+        "location": "Galar"
+    },
+    "rhydon": {
+        "path": "112.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 72,
+        "color_1": 7,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 10,
         "location": "Unys"
     },
-    "happiny": {
-        "path": "440.png",
+    "wooper": {
+        "path": "194.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 62,
+        "color_1": 7,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 9,
+        "location": "Galar"
+    },
+    "yanmega": {
+        "path": "469.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 27,
+        "color_1": 63,
+        "color_2": 135,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 5,
+        "location": "Sinnoh"
+    },
+    "bisharp": {
+        "path": "625.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 45,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 17,
+        "type_2": 15,
+        "location": "Kant"
+    },
+    "skarmory": {
+        "path": "227.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 45,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 5,
+        "location": "Kant"
+    },
+    "nidorino": {
+        "path": "33.png",
         "size": [
             256,
             256
@@ -2857,174 +1113,14 @@
         "orientation": "square",
         "color_0": 120,
         "color_1": 7,
-        "color_2": 90,
-        "color_3": 112,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "amoonguss": {
-        "path": "591.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 112,
-        "color_1": 7,
-        "color_2": 34,
-        "color_3": 66,
-        "type_1": 4,
-        "type_2": 7,
-        "location": "Alola"
-    },
-    "rhyhorn": {
-        "path": "111.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 49,
-        "color_1": 23,
-        "color_2": 7,
-        "color_3": 34,
-        "type_1": 9,
-        "type_2": 10,
-        "location": "Kant"
-    },
-    "vespiquen": {
-        "path": "416.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 27,
-        "color_1": 66,
-        "color_2": 116,
+        "color_2": 49,
         "color_3": 7,
-        "type_1": 13,
-        "type_2": 5,
-        "location": "Unys"
-    },
-    "luxray": {
-        "path": "405.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 34,
-        "color_1": 13,
-        "color_2": 7,
-        "color_3": 48,
-        "type_1": 8,
-        "type_2": 0,
-        "location": "Galar"
-    },
-    "altaria": {
-        "path": "334.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 70,
-        "color_1": 58,
-        "color_2": 7,
-        "color_3": 121,
-        "type_1": 16,
-        "type_2": 5,
-        "location": "Unys"
-    },
-    "wartortle": {
-        "path": "8.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 62,
-        "color_1": 34,
-        "color_2": 13,
-        "color_3": 77,
-        "type_1": 3,
-        "type_2": 0,
-        "location": "Alola"
-    },
-    "xerneas": {
-        "path": "716.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 100,
-        "color_1": 34,
-        "color_2": 72,
-        "color_3": 7,
-        "type_1": 18,
-        "type_2": 0,
-        "location": "Johto"
-    },
-    "slurpuff": {
-        "path": "685.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 129,
-        "color_1": 54,
-        "color_2": 7,
-        "color_3": 135,
-        "type_1": 18,
-        "type_2": 0,
-        "location": "Alola"
-    },
-    "glaceon": {
-        "path": "471.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 109,
-        "color_1": 126,
-        "color_2": 7,
-        "color_3": 79,
-        "type_1": 12,
-        "type_2": 0,
-        "location": "Kalos"
-    },
-    "toxicroak": {
-        "path": "454.png",
-        "size": [
-            256,
-            256
-        ],
-        "format": ".png",
-        "orientation": "square",
-        "color_0": 7,
-        "color_1": 13,
-        "color_2": 54,
-        "color_3": 123,
         "type_1": 7,
-        "type_2": 6,
-        "location": "Sinnoh"
+        "type_2": 0,
+        "location": "Johto"
     },
-    "mothim": {
-        "path": "414.png",
+    "kingler": {
+        "path": "99.png",
         "size": [
             256,
             256
@@ -3033,14 +1129,990 @@
         "orientation": "square",
         "color_0": 106,
         "color_1": 34,
-        "color_2": 57,
+        "color_2": 66,
         "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "clauncher": {
+        "path": "692.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 116,
+        "color_1": 71,
+        "color_2": 39,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "sunflora": {
+        "path": "192.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 91,
+        "color_2": 7,
+        "color_3": 57,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "regice": {
+        "path": "378.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 109,
+        "color_1": 7,
+        "color_2": 13,
+        "color_3": 121,
+        "type_1": 12,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "zubat": {
+        "path": "41.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 7,
+        "color_2": 126,
+        "color_3": 7,
+        "type_1": 7,
+        "type_2": 5,
+        "location": "Kant"
+    },
+    "beldum": {
+        "path": "374.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 73,
+        "color_1": 7,
+        "color_2": 13,
+        "color_3": 13,
+        "type_1": 15,
+        "type_2": 11,
+        "location": "Galar"
+    },
+    "krabby": {
+        "path": "98.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 31,
+        "color_1": 7,
+        "color_2": 45,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "mienfoo": {
+        "path": "619.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 112,
+        "color_2": 54,
+        "color_3": 100,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "altaria": {
+        "path": "334-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 135,
+        "color_1": 23,
+        "color_2": 45,
+        "color_3": 7,
+        "type_1": 16,
+        "type_2": 5,
+        "location": "Alola"
+    },
+    "watchog": {
+        "path": "505.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 66,
+        "color_1": 114,
+        "color_2": 48,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "marowak": {
+        "path": "105.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 66,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "raticate": {
+        "path": "20.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 133,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "litleo": {
+        "path": "667.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 12,
+        "color_2": 34,
+        "color_3": 54,
+        "type_1": 2,
+        "type_2": 1,
+        "location": "Alola"
+    },
+    "tyrantrum": {
+        "path": "697.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 135,
+        "color_2": 7,
+        "color_3": 112,
+        "type_1": 10,
+        "type_2": 16,
+        "location": "Johto"
+    },
+    "whismur": {
+        "path": "293.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 129,
+        "color_1": 7,
+        "color_2": 57,
+        "color_3": 23,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "volcanion": {
+        "path": "721.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 11,
+        "color_1": 106,
+        "color_2": 7,
+        "color_3": 86,
+        "type_1": 2,
+        "type_2": 3,
+        "location": "Hoenn"
+    },
+    "forretress": {
+        "path": "205.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 90,
+        "color_2": 11,
+        "color_3": 23,
         "type_1": 13,
+        "type_2": 15,
+        "location": "Alola"
+    },
+    "monferno": {
+        "path": "391.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 106,
+        "color_1": 7,
+        "color_2": 127,
+        "color_3": 126,
+        "type_1": 2,
+        "type_2": 6,
+        "location": "Galar"
+    },
+    "smoochum": {
+        "path": "238.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 12,
+        "color_2": 112,
+        "color_3": 91,
+        "type_1": 12,
+        "type_2": 11,
+        "location": "Hoenn"
+    },
+    "glalie": {
+        "path": "362.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 73,
+        "color_2": 39,
+        "color_3": 58,
+        "type_1": 12,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "pansage": {
+        "path": "511.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 83,
+        "color_1": 57,
+        "color_2": 7,
+        "color_3": 32,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "golem": {
+        "path": "76.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 34,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 9,
+        "location": "Johto"
+    },
+    "whiscash": {
+        "path": "340.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 33,
+        "color_1": 121,
+        "color_2": 7,
+        "color_3": 12,
+        "type_1": 3,
+        "type_2": 9,
+        "location": "Johto"
+    },
+    "weezing": {
+        "path": "110.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 49,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 7,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "groudon": {
+        "path": "383-primal.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 54,
+        "color_2": 8,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "lileep": {
+        "path": "345.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 23,
+        "color_2": 68,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 4,
+        "location": "Kant"
+    },
+    "claydol": {
+        "path": "344.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 127,
+        "color_1": 34,
+        "color_2": 77,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 11,
+        "location": "Galar"
+    },
+    "servine": {
+        "path": "496.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 25,
+        "color_2": 5,
+        "color_3": 83,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "solosis": {
+        "path": "577.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 45,
+        "color_2": 112,
+        "color_3": 39,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "pinsir": {
+        "path": "127.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 45,
+        "color_1": 7,
+        "color_2": 23,
+        "color_3": 39,
+        "type_1": 13,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "zekrom": {
+        "path": "644.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 16,
+        "type_2": 8,
+        "location": "Alola"
+    },
+    "pidgey": {
+        "path": "16.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 127,
+        "color_2": 133,
+        "color_3": 119,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Galar"
+    },
+    "dratini": {
+        "path": "147.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 77,
+        "color_1": 7,
+        "color_2": 73,
+        "color_3": 7,
+        "type_1": 16,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "plusle": {
+        "path": "311.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 54,
+        "color_1": 6,
+        "color_2": 7,
+        "color_3": 112,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "hitmonlee": {
+        "path": "106.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 120,
+        "color_2": 112,
+        "color_3": 34,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "frogadier": {
+        "path": "657.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 126,
+        "color_1": 45,
+        "color_2": 7,
+        "color_3": 33,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "krokorok": {
+        "path": "552.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 127,
+        "color_1": 7,
+        "color_2": 34,
+        "color_3": 49,
+        "type_1": 9,
+        "type_2": 17,
+        "location": "Unys"
+    },
+    "hypno": {
+        "path": "97.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 45,
+        "color_1": 57,
+        "color_2": 7,
+        "color_3": 25,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "clawitzer": {
+        "path": "693.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 21,
+        "color_1": 34,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "ampharos": {
+        "path": "181.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 77,
+        "color_1": 106,
+        "color_2": 116,
+        "color_3": 34,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "bulbasaur": {
+        "path": "1.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 7,
+        "color_2": 123,
+        "color_3": 135,
+        "type_1": 4,
+        "type_2": 7,
+        "location": "Kalos"
+    },
+    "crobat": {
+        "path": "169.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 13,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 72,
+        "type_1": 7,
         "type_2": 5,
         "location": "Kalos"
     },
-    "hippopotas": {
-        "path": "449.png",
+    "pelipper": {
+        "path": "279.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 57,
+        "color_1": 7,
+        "color_2": 135,
+        "color_3": 23,
+        "type_1": 3,
+        "type_2": 5,
+        "location": "Sinnoh"
+    },
+    "panpour": {
+        "path": "515.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 13,
+        "color_1": 57,
+        "color_2": 121,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Hoenn"
+    },
+    "cofagrigus": {
+        "path": "563.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 49,
+        "color_2": 57,
+        "color_3": 49,
+        "type_1": 14,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "rotom": {
+        "path": "479-frost.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 34,
+        "color_2": 106,
+        "color_3": 33,
+        "type_1": 8,
+        "type_2": 14,
+        "location": "Johto"
+    },
+    "conkeldurr": {
+        "path": "534.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 23,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "seedot": {
+        "path": "273.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 7,
+        "color_2": 133,
+        "color_3": 39,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "kricketot": {
+        "path": "401.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 54,
+        "color_1": 39,
+        "color_2": 100,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "pangoro": {
+        "path": "675.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 39,
+        "color_2": 5,
+        "color_3": 23,
+        "type_1": 6,
+        "type_2": 17,
+        "location": "Hoenn"
+    },
+    "volbeat": {
+        "path": "313.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 115,
+        "color_1": 34,
+        "color_2": 7,
+        "color_3": 73,
+        "type_1": 13,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "vigoroth": {
+        "path": "288.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 135,
+        "color_1": 7,
+        "color_2": 49,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "celebi": {
+        "path": "251.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 7,
+        "color_2": 45,
+        "color_3": 34,
+        "type_1": 11,
+        "type_2": 4,
+        "location": "Johto"
+    },
+    "landorus-incarnate": {
+        "path": "645-incarnate.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 58,
+        "color_2": 31,
+        "color_3": 7,
+        "type_1": 9,
+        "type_2": 5,
+        "location": "Alola"
+    },
+    "blastoise": {
+        "path": "9-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 7,
+        "color_2": 45,
+        "color_3": 39,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "blissey": {
+        "path": "242.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 5,
+        "color_1": 7,
+        "color_2": 68,
+        "color_3": 23,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "ambipom": {
+        "path": "424.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 12,
+        "color_1": 7,
+        "color_2": 72,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "growlithe": {
+        "path": "58.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 31,
+        "color_1": 7,
+        "color_2": 133,
+        "color_3": 34,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "empoleon": {
+        "path": "395.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 25,
+        "color_1": 34,
+        "color_2": 77,
+        "color_3": 126,
+        "type_1": 3,
+        "type_2": 15,
+        "location": "Kant"
+    },
+    "octillery": {
+        "path": "224.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 54,
+        "color_1": 7,
+        "color_2": 12,
+        "color_3": 119,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "armaldo": {
+        "path": "348.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 133,
+        "type_1": 10,
+        "type_2": 13,
+        "location": "Unys"
+    },
+    "registeel": {
+        "path": "379.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 66,
+        "color_2": 49,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "turtwig": {
+        "path": "387.png",
         "size": [
             256,
             256
@@ -3050,13 +2122,29 @@
         "color_0": 25,
         "color_1": 7,
         "color_2": 12,
-        "color_3": 114,
-        "type_1": 9,
+        "color_3": 96,
+        "type_1": 4,
         "type_2": 0,
-        "location": "Kant"
+        "location": "Unys"
     },
     "alakazam": {
-        "path": "65.png",
+        "path": "65-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 46,
+        "color_1": 49,
+        "color_2": 7,
+        "color_3": 127,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "crustle": {
+        "path": "558.png",
         "size": [
             256,
             256
@@ -3064,15 +2152,335 @@
         "format": ".png",
         "orientation": "square",
         "color_0": 39,
-        "color_1": 7,
-        "color_2": 116,
-        "color_3": 100,
-        "type_1": 11,
+        "color_1": 112,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 13,
+        "type_2": 10,
+        "location": "Kant"
+    },
+    "barbaracle": {
+        "path": "689.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 45,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 10,
+        "type_2": 3,
+        "location": "Hoenn"
+    },
+    "helioptile": {
+        "path": "694.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 57,
+        "color_2": 7,
+        "color_3": 46,
+        "type_1": 8,
+        "type_2": 1,
+        "location": "Hoenn"
+    },
+    "relicanth": {
+        "path": "369.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 112,
+        "color_2": 7,
+        "color_3": 39,
+        "type_1": 3,
+        "type_2": 10,
+        "location": "Galar"
+    },
+    "cleffa": {
+        "path": "173.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 6,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 18,
         "type_2": 0,
         "location": "Johto"
     },
-    "kricketune": {
-        "path": "402.png",
+    "pidgeot": {
+        "path": "18-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 126,
+        "color_1": 112,
+        "color_2": 7,
+        "color_3": 1,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Unys"
+    },
+    "weepinbell": {
+        "path": "70.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 66,
+        "color_1": 32,
+        "color_2": 7,
+        "color_3": 57,
+        "type_1": 4,
+        "type_2": 7,
+        "location": "Galar"
+    },
+    "spritzee": {
+        "path": "682.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 31,
+        "color_1": 7,
+        "color_2": 58,
+        "color_3": 54,
+        "type_1": 18,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "ditto": {
+        "path": "132.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 7,
+        "color_2": 129,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "luxio": {
+        "path": "404.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 79,
+        "color_2": 7,
+        "color_3": 48,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "swellow": {
+        "path": "277.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 45,
+        "color_2": 54,
+        "color_3": 34,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Unys"
+    },
+    "bidoof": {
+        "path": "399.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 106,
+        "color_2": 133,
+        "color_3": 27,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "scizor": {
+        "path": "212.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 119,
+        "color_1": 54,
+        "color_2": 120,
+        "color_3": 7,
+        "type_1": 13,
+        "type_2": 15,
+        "location": "Hoenn"
+    },
+    "poliwhirl": {
+        "path": "61.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 13,
+        "color_1": 7,
+        "color_2": 45,
+        "color_3": 7,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "snover": {
+        "path": "459.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 135,
+        "color_1": 39,
+        "color_2": 7,
+        "color_3": 32,
+        "type_1": 4,
+        "type_2": 12,
+        "location": "Sinnoh"
+    },
+    "hoppip": {
+        "path": "187.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 68,
+        "color_2": 7,
+        "color_3": 112,
+        "type_1": 4,
+        "type_2": 5,
+        "location": "Galar"
+    },
+    "tyrogue": {
+        "path": "236.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 7,
+        "color_2": 129,
+        "color_3": 119,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "salamence": {
+        "path": "373-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 54,
+        "color_1": 7,
+        "color_2": 119,
+        "color_3": 123,
+        "type_1": 16,
+        "type_2": 5,
+        "location": "Alola"
+    },
+    "glameow": {
+        "path": "431.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 7,
+        "color_2": 45,
+        "color_3": 123,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "mightyena": {
+        "path": "262.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 120,
+        "color_2": 39,
+        "color_3": 7,
+        "type_1": 17,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "cyndaquil": {
+        "path": "155.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 100,
+        "color_1": 39,
+        "color_2": 106,
+        "color_3": 7,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "stoutland": {
+        "path": "508.png",
         "size": [
             256,
             256
@@ -3080,31 +2488,319 @@
         "format": ".png",
         "orientation": "square",
         "color_0": 39,
-        "color_1": 54,
+        "color_1": 1,
         "color_2": 7,
-        "color_3": 7,
-        "type_1": 13,
+        "color_3": 127,
+        "type_1": 1,
         "type_2": 0,
-        "location": "Galar"
+        "location": "Hoenn"
     },
-    "joltik": {
-        "path": "595.png",
+    "meganium": {
+        "path": "154.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": 57,
-        "color_1": 33,
-        "color_2": 106,
+        "color_0": 103,
+        "color_1": 25,
+        "color_2": 7,
+        "color_3": 77,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "shaymin-land": {
+        "path": "492-sky.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 25,
+        "color_1": 135,
+        "color_2": 7,
+        "color_3": 120,
+        "type_1": 4,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "camerupt": {
+        "path": "323-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 23,
+        "color_1": 34,
+        "color_2": 31,
         "color_3": 7,
-        "type_1": 13,
-        "type_2": 8,
+        "type_1": 2,
+        "type_2": 9,
+        "location": "Galar"
+    },
+    "lotad": {
+        "path": "270.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 32,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 57,
+        "type_1": 3,
+        "type_2": 4,
+        "location": "Galar"
+    },
+    "fearow": {
+        "path": "22.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 127,
+        "color_1": 106,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Sinnoh"
+    },
+    "diancie": {
+        "path": "719-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 129,
+        "color_1": 135,
+        "color_2": 7,
+        "color_3": 120,
+        "type_1": 10,
+        "type_2": 18,
+        "location": "Alola"
+    },
+    "sentret": {
+        "path": "161.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 7,
+        "color_2": 1,
+        "color_3": 39,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "charmander": {
+        "path": "4.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 112,
+        "color_1": 7,
+        "color_2": 1,
+        "color_3": 12,
+        "type_1": 2,
+        "type_2": 0,
         "location": "Kant"
     },
-    "kangaskhan": {
-        "path": "115.png",
+    "duskull": {
+        "path": "355.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 45,
+        "color_2": 7,
+        "color_3": 23,
+        "type_1": 14,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "klinklang": {
+        "path": "601.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 120,
+        "color_1": 34,
+        "color_2": 123,
+        "color_3": 7,
+        "type_1": 15,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "seismitoad": {
+        "path": "537.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 126,
+        "color_1": 121,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 3,
+        "type_2": 9,
+        "location": "Sinnoh"
+    },
+    "pikachu": {
+        "path": "25-libre.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 57,
+        "color_2": 106,
+        "color_3": 135,
+        "type_1": 8,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "swirlix": {
+        "path": "684.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 46,
+        "color_1": 7,
+        "color_2": 112,
+        "color_3": 45,
+        "type_1": 18,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "xatu": {
+        "path": "178.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 137,
+        "color_1": 45,
+        "color_2": 7,
+        "color_3": 54,
+        "type_1": 11,
+        "type_2": 5,
+        "location": "Unys"
+    },
+    "latias": {
+        "path": "380-mega.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 23,
+        "color_2": 45,
+        "color_3": 39,
+        "type_1": 16,
+        "type_2": 11,
+        "location": "Alola"
+    },
+    "smeargle": {
+        "path": "235.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 127,
+        "color_1": 7,
+        "color_2": 1,
+        "color_3": 119,
+        "type_1": 1,
+        "type_2": 0,
+        "location": "Johto"
+    },
+    "rufflet": {
+        "path": "627.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 49,
+        "color_1": 1,
+        "color_2": 7,
+        "color_3": 34,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Alola"
+    },
+    "cranidos": {
+        "path": "408.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 123,
+        "color_1": 7,
+        "color_2": 13,
+        "color_3": 66,
+        "type_1": 10,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "pignite": {
+        "path": "499.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 27,
+        "color_1": 106,
+        "color_2": 7,
+        "color_3": 58,
+        "type_1": 2,
+        "type_2": 6,
+        "location": "Galar"
+    },
+    "vibrava": {
+        "path": "329.png",
         "size": [
             256,
             256
@@ -3113,26 +2809,266 @@
         "orientation": "square",
         "color_0": 49,
         "color_1": 7,
-        "color_2": 120,
-        "color_3": 7,
-        "type_1": 1,
-        "type_2": 0,
-        "location": "Alola"
+        "color_2": 7,
+        "color_3": 100,
+        "type_1": 9,
+        "type_2": 16,
+        "location": "Kalos"
     },
-    "scrafty": {
-        "path": "560.png",
+    "grimer": {
+        "path": "88.png",
         "size": [
             256,
             256
         ],
         "format": ".png",
         "orientation": "square",
-        "color_0": 12,
+        "color_0": 120,
         "color_1": 7,
-        "color_2": 106,
-        "color_3": 46,
+        "color_2": 39,
+        "color_3": 72,
+        "type_1": 7,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "marshtomp": {
+        "path": "259.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 121,
+        "color_1": 7,
+        "color_2": 39,
+        "color_3": 12,
+        "type_1": 3,
+        "type_2": 9,
+        "location": "Johto"
+    },
+    "banette": {
+        "path": "354.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 39,
+        "color_1": 7,
+        "color_2": 112,
+        "color_3": 7,
+        "type_1": 14,
+        "type_2": 0,
+        "location": "Unys"
+    },
+    "latios": {
+        "path": "381.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 17,
+        "color_1": 7,
+        "color_2": 126,
+        "color_3": 120,
+        "type_1": 16,
+        "type_2": 11,
+        "location": "Sinnoh"
+    },
+    "carbink": {
+        "path": "703.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 0,
+        "color_1": 123,
+        "color_2": 23,
+        "color_3": 7,
+        "type_1": 10,
+        "type_2": 18,
+        "location": "Galar"
+    },
+    "timburr": {
+        "path": "532.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 112,
+        "color_2": 27,
+        "color_3": 120,
+        "type_1": 6,
+        "type_2": 0,
+        "location": "Sinnoh"
+    },
+    "malamar": {
+        "path": "687.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 72,
+        "color_1": 7,
+        "color_2": 45,
+        "color_3": 39,
         "type_1": 17,
+        "type_2": 11,
+        "location": "Kant"
+    },
+    "croagunk": {
+        "path": "453.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 126,
+        "color_2": 116,
+        "color_3": 77,
+        "type_1": 7,
         "type_2": 6,
         "location": "Alola"
+    },
+    "pidgeotto": {
+        "path": "17.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 54,
+        "color_1": 127,
+        "color_2": 7,
+        "color_3": 7,
+        "type_1": 1,
+        "type_2": 5,
+        "location": "Galar"
+    },
+    "snorunt": {
+        "path": "361.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 34,
+        "color_1": 100,
+        "color_2": 31,
+        "color_3": 135,
+        "type_1": 12,
+        "type_2": 0,
+        "location": "Kant"
+    },
+    "delibird": {
+        "path": "225.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 7,
+        "color_1": 120,
+        "color_2": 119,
+        "color_3": 135,
+        "type_1": 12,
+        "type_2": 5,
+        "location": "Johto"
+    },
+    "huntail": {
+        "path": "367.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 121,
+        "color_1": 31,
+        "color_2": 7,
+        "color_3": 45,
+        "type_1": 3,
+        "type_2": 0,
+        "location": "Alola"
+    },
+    "jellicent": {
+        "path": "593f.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 90,
+        "color_1": 39,
+        "color_2": 120,
+        "color_3": 39,
+        "type_1": 3,
+        "type_2": 14,
+        "location": "Hoenn"
+    },
+    "elgyem": {
+        "path": "605.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 72,
+        "color_1": 62,
+        "color_2": 34,
+        "color_3": 7,
+        "type_1": 11,
+        "type_2": 0,
+        "location": "Kalos"
+    },
+    "shelgon": {
+        "path": "372.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 77,
+        "color_1": 49,
+        "color_2": 7,
+        "color_3": 120,
+        "type_1": 16,
+        "type_2": 0,
+        "location": "Galar"
+    },
+    "magmar": {
+        "path": "126.png",
+        "size": [
+            256,
+            256
+        ],
+        "format": ".png",
+        "orientation": "square",
+        "color_0": 25,
+        "color_1": 7,
+        "color_2": 54,
+        "color_3": 57,
+        "type_1": 2,
+        "type_2": 0,
+        "location": "Hoenn"
     }
 }

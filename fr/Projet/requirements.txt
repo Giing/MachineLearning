@@ -5,3 +5,5 @@ pydotplus
 pillow
 webcolors
 scipy
+matplotlib
+pandas
